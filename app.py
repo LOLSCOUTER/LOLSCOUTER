@@ -17,8 +17,26 @@ def get_puuid(game_name, tag_line):
     if response.status_code == 200:
         return response.json().get("puuid")
     else:
-        print(f"Error {response.status_code}: {response.text}")
+        print(f"[PUUID ERROR] {response.status_code}: {response.text}")
         return None
 
-puuid = get_puuid("hideonbush", "KR1")
-print("PUUID:", puuid)
+def get_match_ids(puuid, count=20, queue=450):
+    url = f"https://asia.api.riotgames.com/lol/match/v5/matches/by-puuid/{puuid}/ids?start=0&count={count}&queue={queue}"
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        return response.json()
+    else:
+        print(f"[MATCH ID ERROR] {response.status_code}: {response.text}")
+        return []
+
+if __name__ == "__main__":
+    game_name = os.getenv("RIOT_GAME_NAME")
+    tag_line = os.getenv("RIOT_TAG_LINE")
+
+    
+    puuid = get_puuid(game_name, tag_line)
+    print("PUUID:", puuid)
+
+    if puuid:
+        match_ids = get_match_ids(puuid)
+        print("Match IDs:", match_ids)
