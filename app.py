@@ -1,8 +1,12 @@
 import requests
 import os
 import csv
+import random
 from dotenv import load_dotenv
 from pathlib import Path
+from catboost import CatBoostClassifier
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score
 
 env_path = Path(__file__).parent / ".env"
 load_dotenv(dotenv_path=env_path, override=True)
@@ -75,7 +79,7 @@ def create_training_data(match_data, role_map):
         if "Unknown" in blue_roles or "Unknown" in red_roles:
             continue
         features = blue_roles + red_roles
-        label = 1  
+        label = random.choice([0, 1])
         X.append(features)
         y.append(label)
     return X, y
@@ -104,3 +108,13 @@ if __name__ == "__main__":
 
         print("Sample X:", X[0] if X else "None")
         print("Sample y:", y[0] if y else "None")
+
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+        model = CatBoostClassifier(verbose=0)
+        model.fit(X_train, y_train, cat_features=list(range(10)))
+
+        y_pred = model.predict(X_test)
+        accuracy = accuracy_score(y_test, y_pred)
+
+        print("Accuracy on test set:", accuracy)
