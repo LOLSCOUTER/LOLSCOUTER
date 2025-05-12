@@ -1,171 +1,171 @@
 champion_name,role_group
-Garen,AD Fighter
+Garen,Bruiser AD
 Galio,CC Tank
-Gangplank,Poke Mage
+Gangplank,Poke
 Gragas,Sustain Mage
-Graves,Poke Marksman
-Gwen,Bruiser
-Gnar,Bruiser
+Graves,Poke
+Gwen,Bruiser AP
+Gnar,Bruiser AD
 Nami,Utility Support
-Nasus,Bruiser
-Naafiri,AD Assassin
+Nasus,Bruiser AD
+Naafiri,Assassin AD
 Nautilus,CC Tank
-Nocturne,AD Assassin
+Nocturne,Assassin AD
 Nunu & Willump,CC Tank
-Nidalee,Poke Mage
-Neeko,Burst Mage
+Nidalee,Poke
+Neeko,Burst
 Nilah,DPS Marksman
-Darius,AD Fighter
-Diana,AP Assassin
+Darius,Bruiser AD
+Diana,Burst
 Draven,DPS Marksman
-Ryze,Bruiser
+Ryze,Bruiser AD
 Rakan,Utility Support
 Rammus,CC Tank
-Lux,Poke Mage
+Lux,Poke
 Rumble,Sustain Mage
 Renata Glasc,Utility Support
-Renekton,Bruiser
+Renekton,Bruiser AD
 Leona,CC Tank
-Rek'Sai,Bruiser
+Rek'Sai,Bruiser AD
 Rell,CC Tank
-Rengar,AD Assassin
+Rengar,Assassin AD
 Lucian,DPS Marksman
 Lulu,Utility Support
-LeBlanc,AP Assassin
-Lee Sin,AD Assassin
-Riven,AD Fighter
-Lissandra,Burst Mage
+LeBlanc,Burst
+Lee Sin,Assassin AD
+Riven,Bruiser AD
+Lissandra,Burst
 Lillia,Sustain Mage
-Master Yi,Bruiser
+Master Yi,Bruiser AD
 Maokai,CC Tank
-Malzahar,Poke Mage
+Malzahar,Poke
 Malphite,Sustain Tank
-Milio,Burst Mage
-Mordekaiser,Bruiser
-Morgana,AP Support
+Milio,Burst
+Mordekaiser,Bruiser AP
+Morgana,Poke
 Dr. Mundo,Sustain Tank
 Miss Fortune,DPS Marksman
 Milio,Utility Support
 Bard,Utility Support
-Varus,Poke Marksman
-Vi,Bruiser
-Veigar,Burst Mage
+Varus,Poke
+Vi,Bruiser AD
+Veigar,Burst
 Vayne,DPS Marksman
-Vex,Burst Mage
-Bel'Veth,Bruiser
-Vel'Koz,Poke Mage
+Vex,Burst
+Bel'Veth,Bruiser AD
+Vel'Koz,Poke
 Volibear,Sustain Tank
 Braum,CC Tank
-Briar,Bruiser
-Brand,Burst Mage
+Briar,Bruiser AD
+Brand,Burst
 Vladimir,Sustain Mage
 Blitzcrank,CC Tank
-Viego,Bruiser
-Viktor,Poke Mage
+Viego,Bruiser AD
+Viktor,Poke
 Poppy,CC Tank
 Samira,DPS Marksman
 Sion,Sustain Tank
-Sylas,Bruiser
-Shaco,AD Assassin
-Senna,Poke Support
-Seraphine,AP Support
+Sylas,Bruiser AP
+Shaco,Assassin AD
+Senna,DPS Marksman
+Seraphine,Utility Support
 Sejuani,CC Tank
-Sett,Bruiser
+Sett,Bruiser AD
 Sona,Utility Support
 Soraka,Utility Support
 Shen,Sustain Tank
-Shyvana,Bruiser
-Smolder,Poke Marksman
+Shyvana,Bruiser AD
+Smolder,Poke
 Swain,Sustain Mage
 Skarner,CC Tank
 Sivir,DPS Marksman
-Xin Zhao,Bruiser
-Syndra,Burst Mage
+Xin Zhao,Bruiser AD
+Syndra,Burst
 Singed,Sustain Tank
 Thresh,Utility Support
-Ahri,AP Assassin
+Ahri,Burst
 Amumu,CC Tank
 Aurelion Sol,Sustain Mage
 Ivern,Utility Support
-Azir,Poke Mage
-Akali,AP Assassin
-Akshan,AD Assassin
-Aatrox,Bruiser
+Azir,Poke
+Akali,Burst
+Akshan,Assassin AD
+Aatrox,Bruiser AD
 Aphelios,DPS Marksman
 Alistar,CC Tank
-Ambessa,Bruiser
-Annie,Burst Mage
-Anivia,Poke Mage
-Ashe,Poke Marksman
-Yasuo,Bruiser
-Ekko,AP Assassin
-Elise,AP Assassin
-Wukong,Bruiser
-Aurora,Poke Mage
+Ambessa,Bruiser AD
+Annie,Burst
+Anivia,Poke
+Ashe,Poke
+Yasuo,Bruiser AD
+Ekko,Burst
+Elise,Burst
+Wukong,Bruiser AD
+Aurora,Poke
 Ornn,Sustain Tank
-Orianna,Burst Mage
-Olaf,Bruiser
-Yone,Bruiser
+Orianna,Burst
+Olaf,Bruiser AD
+Yone,Bruiser AD
 Yorick,Sustain Tank
-Udyr,Bruiser
-Urgot,Bruiser
-Warwick,Bruiser
+Udyr,Bruiser AD
+Urgot,Bruiser AD
+Warwick,Bruiser AD
 Yuumi,Utility Support
-Irelia,AD Fighter
-Evelynn,AP Assassin
-Ezreal,Poke Marksman
-Illaoi,Bruiser
+Irelia,Bruiser AD
+Evelynn,Burst
+Ezreal,Poke
+Illaoi,Bruiser AD
 Jarvan IV,CC Tank
 Xayah,DPS Marksman
-Zyra,Poke Support
+Zyra,Poke
 Zac,CC Tank
 Janna,Utility Support
-Jax,Bruiser
-Zed,AD Assassin
-Xerath,Poke Mage
+Jax,Bruiser AD
+Zed,Assassin AD
+Xerath,Poke
 Zeri,DPS Marksman
-Jayce,Poke Mage
-Zoe,Poke Mage
-Ziggs,Poke Mage
-Jhin,Poke Marksman
+Jayce,Poke
+Zoe,Poke
+Ziggs,Poke
+Jhin,Poke
 Zilean,Utility Support
 Jinx,DPS Marksman
 Cho'Gath,Sustain Tank
 Karma,Utility Support
-Camille,Bruiser
-Kassadin,AP Assassin
-Karthus,Burst Mage
+Camille,Bruiser AD
+Kassadin,Burst
+Karthus,Burst
 Cassiopeia,Sustain Mage
 Kai'Sa,DPS Marksman
-Kha'Zix,AD Assassin
-Katarina,AP Assassin
+Kha'Zix,Assassin AD
+Katarina,Burst
 Kalista,DPS Marksman
-Kennen,Burst Mage
-Caitlyn,Poke Marksman
-Kayn,AD Assassin
-Kayle,Bruiser
+Kennen,Burst
+Caitlyn,Poke
+Kayn,Assassin AD
+Kayle,Bruiser AD
 Kog'Maw,DPS Marksman
-Corki,Poke Marksman
-Quinn,Poke Marksman
+Corki,Poke
+Quinn,Poke
 K'Sante,Sustain Tank
-Kled,Bruiser
-Qiyana,AD Assassin
+Kled,Bruiser AD
+Qiyana,Assassin AD
 Kindred,DPS Marksman
 Taric,Utility Support
-Talon,AD Assassin
-Taliyah,Poke Mage
+Talon,Assassin AD
+Taliyah,Poke
 Tahm Kench,Sustain Tank
-Trundle,Bruiser
+Trundle,Bruiser AD
 Tristana,DPS Marksman
-Tryndamere,AD Fighter
-Twisted Fate,Poke Mage
+Tryndamere,Bruiser AD
+Twisted Fate,Poke
 Twitch,DPS Marksman
-Teemo,Poke Marksman
-Pyke,AD Assassin
-Pantheon,AD Fighter
-Fiddlesticks,Burst Mage
-Fiora,AD Fighter
-Fizz,AP Assassin
-Heimerdinger,Poke Mage
-Hecarim,Bruiser
-Hwei,Poke Mage
+Teemo,Poke
+Pyke,Assassin AD
+Pantheon,Bruiser AD
+Fiddlesticks,Burst
+Fiora,Bruiser AD
+Fizz,Burst
+Heimerdinger,Poke
+Hecarim,Bruiser AD
+Hwei,Poke

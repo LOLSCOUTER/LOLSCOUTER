@@ -1,0 +1,651 @@
+match_id,blue_1_name,blue_1_role,blue_2_name,blue_2_role,blue_3_name,blue_3_role,blue_4_name,blue_4_role,blue_5_name,blue_5_role,red_1_name,red_1_role,red_2_name,red_2_role,red_3_name,red_3_role,red_4_name,red_4_role,red_5_name,red_5_role,label
+KR_7639139392,Fizz,Burst,Morgana,Poke,Ziggs,Poke,Lissandra,Burst,Shen,Sustain Tank,Diana,Burst,Quinn,Poke,Lucian,DPS Marksman,Lulu,Utility Support,Kalista,DPS Marksman,0
+KR_7639230940,Mordekaiser,Bruiser AP,Heimerdinger,Poke,Gwen,Bruiser AP,Orianna,Burst,Zed,Assassin AD,Kassadin,Burst,Caitlyn,Poke,Lux,Poke,Udyr,Bruiser AD,Sion,Sustain Tank,0
+KR_7639196936,Senna,DPS Marksman,Quinn,Poke,Fizz,Burst,Xerath,Poke,Thresh,Utility Support,Gragas,Sustain Mage,Rammus,CC Tank,Caitlyn,Poke,Malphite,Sustain Tank,Janna,Utility Support,1
+KR_7639167970,Gangplank,Poke,Thresh,Utility Support,Zilean,Utility Support,Talon,Assassin AD,Taliyah,Poke,Xerath,Poke,Kled,Bruiser AD,Kalista,DPS Marksman,Cassiopeia,Sustain Mage,Lucian,DPS Marksman,0
+KR_7636954670,Jax,Bruiser AD,Aatrox,Bruiser AD,Samira,DPS Marksman,Zilean,Utility Support,Rumble,Sustain Mage,Zed,Assassin AD,Illaoi,Bruiser AD,Yone,Bruiser AD,Ryze,Bruiser AD,Teemo,Poke,1
+KR_7636675946,Naafiri,Assassin AD,Ezreal,Poke,Nilah,DPS Marksman,Lucian,DPS Marksman,Yone,Bruiser AD,Swain,Sustain Mage,Veigar,Burst,Shen,Sustain Tank,Jhin,Poke,Malphite,Sustain Tank,0
+KR_7629607349,Neeko,Burst,Kalista,DPS Marksman,Mordekaiser,Bruiser AP,Smolder,Poke,Brand,Burst,Leona,CC Tank,Senna,DPS Marksman,Fizz,Burst,Caitlyn,Poke,Rell,CC Tank,0
+KR_7639206631,Lillia,Sustain Mage,Aurora,Poke,Poppy,CC Tank,Riven,Bruiser AD,Lucian,DPS Marksman,Gragas,Sustain Mage,Zed,Assassin AD,Irelia,Bruiser AD,Karma,Utility Support,Karthus,Burst,1
+KR_7634851222,Gragas,Sustain Mage,Zoe,Poke,Naafiri,Assassin AD,Malzahar,Poke,Ornn,Sustain Tank,Zyra,Poke,Heimerdinger,Poke,Shen,Sustain Tank,Sejuani,CC Tank,Sivir,DPS Marksman,0
+KR_7638795933,Renekton,Bruiser AD,Rengar,Assassin AD,Sion,Sustain Tank,Jinx,DPS Marksman,Ryze,Bruiser AD,Zyra,Poke,Zoe,Poke,Aphelios,DPS Marksman,Ezreal,Poke,Xerath,Poke,0
+KR_7638472471,Annie,Burst,Ekko,Burst,Poppy,CC Tank,Sylas,Bruiser AP,Kalista,DPS Marksman,Hwei,Poke,Zed,Assassin AD,Yone,Bruiser AD,Swain,Sustain Mage,Rakan,Utility Support,1
+KR_7634901672,Soraka,Utility Support,Zed,Assassin AD,Pyke,Assassin AD,Sivir,DPS Marksman,Blitzcrank,CC Tank,Alistar,CC Tank,Lux,Poke,Gragas,Sustain Mage,Syndra,Burst,Ziggs,Poke,1
+KR_7638311743,Teemo,Poke,Ahri,Burst,Yasuo,Bruiser AD,Renekton,Bruiser AD,Orianna,Burst,Nocturne,Assassin AD,Alistar,CC Tank,Shen,Sustain Tank,Thresh,Utility Support,Gangplank,Poke,0
+KR_7637887170,Lulu,Utility Support,Lissandra,Burst,Twitch,DPS Marksman,Thresh,Utility Support,Tristana,DPS Marksman,Samira,DPS Marksman,Seraphine,Utility Support,Caitlyn,Poke,Warwick,Bruiser AD,Xerath,Poke,0
+KR_7635947920,Evelynn,Burst,Morgana,Poke,Nidalee,Poke,Xayah,DPS Marksman,Nautilus,CC Tank,Alistar,CC Tank,Vex,Burst,Sett,Bruiser AD,Ashe,Poke,Qiyana,Assassin AD,1
+KR_7635915958,Jax,Bruiser AD,Caitlyn,Poke,Malzahar,Poke,Lux,Poke,Morgana,Poke,Jayce,Poke,Sylas,Bruiser AP,Teemo,Poke,Nilah,DPS Marksman,Yone,Bruiser AD,1
+KR_7635851542,Blitzcrank,CC Tank,Orianna,Burst,Zed,Assassin AD,Varus,Poke,Ashe,Poke,Ezreal,Poke,Shen,Sustain Tank,Neeko,Burst,Smolder,Poke,Sylas,Bruiser AP,0
+KR_7635748623,Neeko,Burst,Senna,DPS Marksman,Kayle,Bruiser AD,Zilean,Utility Support,Teemo,Poke,Ryze,Bruiser AD,Akali,Burst,Hwei,Poke,Xayah,DPS Marksman,Varus,Poke,0
+KR_7636922059,Hwei,Poke,Nautilus,CC Tank,Blitzcrank,CC Tank,Pyke,Assassin AD,Vi,Bruiser AD,Trundle,Bruiser AD,Jhin,Poke,Zyra,Poke,Leona,CC Tank,Ashe,Poke,0
+KR_7631485079,Amumu,CC Tank,Smolder,Poke,Karma,Utility Support,Darius,Bruiser AD,Syndra,Burst,Orianna,Burst,Jayce,Poke,Xerath,Poke,Shyvana,Bruiser AD,Fizz,Burst,1
+KR_7625012390,Graves,Poke,Katarina,Burst,Renekton,Bruiser AD,Quinn,Poke,Akshan,Assassin AD,Aurora,Poke,Nami,Utility Support,Yone,Bruiser AD,Urgot,Bruiser AD,Viktor,Poke,0
+KR_7594383626,Maokai,CC Tank,Zyra,Poke,Aatrox,Bruiser AD,Zeri,DPS Marksman,Talon,Assassin AD,Swain,Sustain Mage,Syndra,Burst,Trundle,Bruiser AD,Riven,Bruiser AD,Ezreal,Poke,0
+KR_7636723412,Kindred,DPS Marksman,Caitlyn,Poke,Yasuo,Bruiser AD,Ornn,Sustain Tank,Smolder,Poke,Sett,Bruiser AD,Jinx,DPS Marksman,Fiora,Bruiser AD,Soraka,Utility Support,Ziggs,Poke,1
+KR_7635262127,Tristana,DPS Marksman,Irelia,Bruiser AD,Ezreal,Poke,Xayah,DPS Marksman,Evelynn,Burst,Caitlyn,Poke,Morgana,Poke,Kayle,Bruiser AD,Kennen,Burst,Singed,Sustain Tank,1
+KR_7619855346,Pyke,Assassin AD,Jinx,DPS Marksman,Caitlyn,Poke,Karthus,Burst,Tryndamere,Bruiser AD,Cassiopeia,Sustain Mage,Samira,DPS Marksman,Lulu,Utility Support,Xayah,DPS Marksman,Malzahar,Poke,1
+KR_7618477723,Kayle,Bruiser AD,Graves,Poke,Nami,Utility Support,Tristana,DPS Marksman,Malzahar,Poke,Sylas,Bruiser AP,Poppy,CC Tank,Corki,Poke,Blitzcrank,CC Tank,Senna,DPS Marksman,0
+KR_7454063583,Poppy,CC Tank,Tristana,DPS Marksman,Viktor,Poke,Viego,Bruiser AD,Lux,Poke,Thresh,Utility Support,Galio,CC Tank,Twitch,DPS Marksman,Smolder,Poke,Seraphine,Utility Support,1
+KR_7639304865,Syndra,Burst,Ahri,Burst,Twitch,DPS Marksman,Xerath,Poke,Talon,Assassin AD,Blitzcrank,CC Tank,Vex,Burst,Irelia,Bruiser AD,Graves,Poke,Shyvana,Bruiser AD,1
+KR_7638938223,Smolder,Poke,Poppy,CC Tank,Zoe,Poke,Diana,Burst,Talon,Assassin AD,Malphite,Sustain Tank,Ekko,Burst,Nidalee,Poke,Soraka,Utility Support,Twitch,DPS Marksman,0
+KR_7638475162,Ryze,Bruiser AD,Maokai,CC Tank,Jhin,Poke,Ekko,Burst,Seraphine,Utility Support,Ambessa,Bruiser AD,Sivir,DPS Marksman,Lillia,Sustain Mage,Nidalee,Poke,Janna,Utility Support,1
+KR_7638420408,Caitlyn,Poke,Yone,Bruiser AD,Galio,CC Tank,Aurora,Poke,Rakan,Utility Support,Syndra,Burst,Varus,Poke,Ryze,Bruiser AD,Rumble,Sustain Mage,Diana,Burst,1
+KR_7453963991,Karthus,Burst,Lillia,Sustain Mage,Sona,Utility Support,Urgot,Bruiser AD,Sivir,DPS Marksman,Hwei,Poke,Janna,Utility Support,Skarner,CC Tank,Jhin,Poke,Kindred,DPS Marksman,0
+KR_7426041541,Akali,Burst,Nidalee,Poke,Ambessa,Bruiser AD,Xayah,DPS Marksman,Ziggs,Poke,Taliyah,Poke,Ryze,Bruiser AD,Ashe,Poke,Yasuo,Bruiser AD,Twitch,DPS Marksman,1
+KR_7637024985,Yasuo,Bruiser AD,Yuumi,Utility Support,Gwen,Bruiser AP,Senna,DPS Marksman,Sejuani,CC Tank,Draven,DPS Marksman,Skarner,CC Tank,Sett,Bruiser AD,Janna,Utility Support,Rakan,Utility Support,0
+KR_7637013796,Lux,Poke,Milio,Utility Support,Darius,Bruiser AD,Varus,Poke,Nautilus,CC Tank,Orianna,Burst,Olaf,Bruiser AD,Kennen,Burst,Diana,Burst,Katarina,Burst,0
+KR_7636991297,Ivern,Utility Support,Rell,CC Tank,Smolder,Poke,Ashe,Poke,Lux,Poke,Jhin,Poke,Corki,Poke,Hwei,Poke,Orianna,Burst,Pantheon,Bruiser AD,0
+KR_7632525288,Tristana,DPS Marksman,Zed,Assassin AD,Brand,Burst,Rammus,CC Tank,Lucian,DPS Marksman,Heimerdinger,Poke,Garen,Bruiser AD,Xerath,Poke,Caitlyn,Poke,Rakan,Utility Support,0
+KR_7632005728,Trundle,Bruiser AD,Nidalee,Poke,Varus,Poke,Xayah,DPS Marksman,Poppy,CC Tank,Kindred,DPS Marksman,Jinx,DPS Marksman,Rumble,Sustain Mage,Zac,CC Tank,Lissandra,Burst,0
+KR_7611131312,Tristana,DPS Marksman,Brand,Burst,Vex,Burst,Zilean,Utility Support,Vi,Bruiser AD,Shaco,Assassin AD,Ryze,Bruiser AD,Pyke,Assassin AD,Renekton,Bruiser AD,Veigar,Burst,1
+KR_7611113186,Alistar,CC Tank,Akali,Burst,Ashe,Poke,Katarina,Burst,Rakan,Utility Support,Varus,Poke,Nautilus,CC Tank,Mordekaiser,Bruiser AP,Kindred,DPS Marksman,Nasus,Bruiser AD,0
+KR_7636947164,Ezreal,Poke,Amumu,CC Tank,Yasuo,Bruiser AD,Gragas,Sustain Mage,Orianna,Burst,Kalista,DPS Marksman,Thresh,Utility Support,Samira,DPS Marksman,Shen,Sustain Tank,Maokai,CC Tank,0
+KR_7631608375,Zed,Assassin AD,Amumu,CC Tank,Kindred,DPS Marksman,Milio,Utility Support,Veigar,Burst,Malphite,Sustain Tank,Hwei,Poke,Samira,DPS Marksman,Sett,Bruiser AD,Ambessa,Bruiser AD,0
+KR_7631556757,Karma,Utility Support,Lucian,DPS Marksman,Blitzcrank,CC Tank,Xayah,DPS Marksman,Senna,DPS Marksman,Darius,Bruiser AD,Ryze,Bruiser AD,Amumu,CC Tank,Viego,Bruiser AD,Shen,Sustain Tank,0
+KR_7633696773,Aatrox,Bruiser AD,Malzahar,Poke,Lissandra,Burst,Thresh,Utility Support,Xerath,Poke,Nidalee,Poke,Nautilus,CC Tank,Ziggs,Poke,Vayne,DPS Marksman,Taliyah,Poke,1
+KR_7636834187,Maokai,CC Tank,Pantheon,Bruiser AD,Caitlyn,Poke,Garen,Bruiser AD,Heimerdinger,Poke,Jhin,Poke,Yone,Bruiser AD,Lucian,DPS Marksman,Diana,Burst,Ryze,Bruiser AD,1
+KR_7636810639,Jinx,DPS Marksman,Galio,CC Tank,Twitch,DPS Marksman,Varus,Poke,Akali,Burst,Caitlyn,Poke,Vladimir,Sustain Mage,Sona,Utility Support,Braum,CC Tank,Lux,Poke,0
+KR_7636626591,Sion,Sustain Tank,Aurora,Poke,Illaoi,Bruiser AD,Orianna,Burst,Neeko,Burst,Akshan,Assassin AD,Zyra,Poke,Heimerdinger,Poke,Nautilus,CC Tank,Caitlyn,Poke,0
+KR_7623430784,Graves,Poke,Veigar,Burst,Draven,DPS Marksman,Morgana,Poke,Singed,Sustain Tank,Twitch,DPS Marksman,Trundle,Bruiser AD,Ahri,Burst,Caitlyn,Poke,Samira,DPS Marksman,1
+KR_7623430094,Karma,Utility Support,Syndra,Burst,Sion,Sustain Tank,Kalista,DPS Marksman,Riven,Bruiser AD,Yuumi,Utility Support,Braum,CC Tank,Leona,CC Tank,Lux,Poke,Tryndamere,Bruiser AD,1
+KR_7636751373,Amumu,CC Tank,Darius,Bruiser AD,Akali,Burst,Sona,Utility Support,Aatrox,Bruiser AD,Urgot,Bruiser AD,Veigar,Burst,Ahri,Burst,Nautilus,CC Tank,Thresh,Utility Support,1
+KR_7635397879,Caitlyn,Poke,Veigar,Burst,Riven,Bruiser AD,Nami,Utility Support,Ahri,Burst,Ziggs,Poke,Rell,CC Tank,Quinn,Poke,Lulu,Utility Support,Ornn,Sustain Tank,1
+KR_7631775282,Sylas,Bruiser AP,Soraka,Utility Support,Viego,Bruiser AD,Teemo,Poke,Draven,DPS Marksman,Janna,Utility Support,Morgana,Poke,Vayne,DPS Marksman,Xerath,Poke,Vi,Bruiser AD,0
+KR_7630751086,Katarina,Burst,Tristana,DPS Marksman,Senna,DPS Marksman,Syndra,Burst,Leona,CC Tank,Seraphine,Utility Support,Smolder,Poke,Garen,Bruiser AD,Viego,Bruiser AD,Corki,Poke,0
+KR_7635601442,Seraphine,Utility Support,Ziggs,Poke,Akshan,Assassin AD,Swain,Sustain Mage,Morgana,Poke,Sona,Utility Support,Jinx,DPS Marksman,Fizz,Burst,Darius,Bruiser AD,Trundle,Bruiser AD,1
+KR_7638732788,Leona,CC Tank,Zeri,DPS Marksman,Varus,Poke,Pyke,Assassin AD,Katarina,Burst,Heimerdinger,Poke,Kennen,Burst,Urgot,Bruiser AD,Aatrox,Bruiser AD,Karthus,Burst,1
+KR_7637345969,Seraphine,Utility Support,Zed,Assassin AD,Jayce,Poke,Camille,Bruiser AD,Neeko,Burst,Jinx,DPS Marksman,Gangplank,Poke,Ekko,Burst,Zeri,DPS Marksman,Morgana,Poke,0
+KR_7637280887,Aatrox,Bruiser AD,Neeko,Burst,Tristana,DPS Marksman,Karma,Utility Support,Sona,Utility Support,Renekton,Bruiser AD,Aurora,Poke,Anivia,Poke,Jayce,Poke,Sejuani,CC Tank,1
+KR_7638354013,Annie,Burst,Irelia,Bruiser AD,Jayce,Poke,Leona,CC Tank,Aphelios,DPS Marksman,Jhin,Poke,Malphite,Sustain Tank,Varus,Poke,Thresh,Utility Support,Fizz,Burst,0
+KR_7635102605,Jayce,Poke,Samira,DPS Marksman,Yone,Bruiser AD,Vex,Burst,Olaf,Bruiser AD,Vayne,DPS Marksman,Taliyah,Poke,Morgana,Poke,Irelia,Bruiser AD,Quinn,Poke,1
+KR_7634726569,Nilah,DPS Marksman,Nautilus,CC Tank,Vayne,DPS Marksman,Karma,Utility Support,Cassiopeia,Sustain Mage,Rengar,Assassin AD,Rell,CC Tank,Viktor,Poke,Kalista,DPS Marksman,Rammus,CC Tank,0
+KR_7629433642,Nami,Utility Support,Garen,Bruiser AD,Warwick,Bruiser AD,Tristana,DPS Marksman,Seraphine,Utility Support,Malphite,Sustain Tank,Jinx,DPS Marksman,Fiora,Bruiser AD,Brand,Burst,Corki,Poke,0
+KR_7629303645,Senna,DPS Marksman,Ahri,Burst,Shaco,Assassin AD,Teemo,Poke,Braum,CC Tank,Nidalee,Poke,Pyke,Assassin AD,Anivia,Poke,Zed,Assassin AD,Quinn,Poke,0
+KR_7628221200,Sion,Sustain Tank,Ashe,Poke,Jinx,DPS Marksman,Sivir,DPS Marksman,Swain,Sustain Mage,Ivern,Utility Support,Viego,Bruiser AD,Sett,Bruiser AD,Caitlyn,Poke,Renekton,Bruiser AD,0
+KR_7630411662,Lillia,Sustain Mage,Twitch,DPS Marksman,Graves,Poke,Malzahar,Poke,Darius,Bruiser AD,Alistar,CC Tank,Ashe,Poke,Smolder,Poke,Sona,Utility Support,Ekko,Burst,0
+KR_7630389761,Sejuani,CC Tank,Corki,Poke,Sivir,DPS Marksman,Darius,Bruiser AD,Ashe,Poke,Ornn,Sustain Tank,Garen,Bruiser AD,Pyke,Assassin AD,Viego,Bruiser AD,Aphelios,DPS Marksman,1
+KR_7625679586,Mordekaiser,Bruiser AP,Skarner,CC Tank,Zoe,Poke,Thresh,Utility Support,Akshan,Assassin AD,Lulu,Utility Support,Kindred,DPS Marksman,Ziggs,Poke,Jayce,Poke,Naafiri,Assassin AD,0
+KR_7605824237,Aurora,Poke,Ahri,Burst,Smolder,Poke,Katarina,Burst,Ryze,Bruiser AD,Lillia,Sustain Mage,Xerath,Poke,Viktor,Poke,Brand,Burst,Karthus,Burst,1
+KR_7560999424,Kalista,DPS Marksman,Malphite,Sustain Tank,Milio,Utility Support,Amumu,CC Tank,Taliyah,Poke,Ekko,Burst,Ezreal,Poke,Rengar,Assassin AD,Anivia,Poke,Alistar,CC Tank,1
+KR_7632303439,Nami,Utility Support,Yorick,Sustain Tank,Akshan,Assassin AD,Soraka,Utility Support,Viktor,Poke,Aatrox,Bruiser AD,Neeko,Burst,Ezreal,Poke,Smolder,Poke,Sona,Utility Support,1
+KR_7636406748,Ashe,Poke,Galio,CC Tank,Leona,CC Tank,Xayah,DPS Marksman,Orianna,Burst,Nautilus,CC Tank,Irelia,Bruiser AD,Gragas,Sustain Mage,Zilean,Utility Support,Illaoi,Bruiser AD,1
+KR_7636299339,Ekko,Burst,Blitzcrank,CC Tank,Neeko,Burst,Pyke,Assassin AD,Morgana,Poke,Katarina,Burst,Ashe,Poke,Zilean,Utility Support,Samira,DPS Marksman,Fizz,Burst,1
+KR_7637419920,Brand,Burst,Thresh,Utility Support,Karthus,Burst,Jinx,DPS Marksman,Mordekaiser,Bruiser AP,Kassadin,Burst,Graves,Poke,Malzahar,Poke,Morgana,Poke,Kalista,DPS Marksman,1
+KR_7635879282,Karthus,Burst,Akali,Burst,Swain,Sustain Mage,Thresh,Utility Support,Lucian,DPS Marksman,Vex,Burst,Samira,DPS Marksman,Kayn,Assassin AD,Ashe,Poke,Naafiri,Assassin AD,1
+KR_7635848256,Zoe,Poke,Morgana,Poke,Thresh,Utility Support,Jax,Bruiser AD,Jhin,Poke,Kayle,Bruiser AD,Smolder,Poke,Tryndamere,Bruiser AD,Annie,Burst,Singed,Sustain Tank,0
+KR_7631176270,Urgot,Bruiser AD,Taric,Utility Support,Jhin,Poke,Quinn,Poke,Neeko,Burst,Rammus,CC Tank,Zilean,Utility Support,Irelia,Bruiser AD,Vayne,DPS Marksman,Soraka,Utility Support,0
+KR_7636275131,Ivern,Utility Support,Jayce,Poke,Jhin,Poke,Blitzcrank,CC Tank,Shen,Sustain Tank,Heimerdinger,Poke,Poppy,CC Tank,Lulu,Utility Support,Thresh,Utility Support,Trundle,Bruiser AD,0
+KR_7626009611,Jinx,DPS Marksman,Yone,Bruiser AD,Fiora,Bruiser AD,Mordekaiser,Bruiser AP,Rammus,CC Tank,Aphelios,DPS Marksman,Nidalee,Poke,Braum,CC Tank,Viego,Bruiser AD,Swain,Sustain Mage,0
+KR_7625948234,Jinx,DPS Marksman,Rengar,Assassin AD,Sion,Sustain Tank,Renekton,Bruiser AD,Malzahar,Poke,Mordekaiser,Bruiser AP,Garen,Bruiser AD,Syndra,Burst,Yuumi,Utility Support,Zeri,DPS Marksman,1
+KR_7616327988,Ashe,Poke,Kindred,DPS Marksman,Hwei,Poke,Alistar,CC Tank,Pyke,Assassin AD,Zeri,DPS Marksman,Morgana,Poke,Thresh,Utility Support,Neeko,Burst,Urgot,Bruiser AD,1
+KR_7616079839,Graves,Poke,Lulu,Utility Support,Singed,Sustain Tank,Xayah,DPS Marksman,Blitzcrank,CC Tank,Sivir,DPS Marksman,Yasuo,Bruiser AD,Neeko,Burst,Kassadin,Burst,Rakan,Utility Support,0
+KR_7620522104,Karthus,Burst,Orianna,Burst,Ezreal,Poke,Malphite,Sustain Tank,Swain,Sustain Mage,Twitch,DPS Marksman,Syndra,Burst,Jax,Bruiser AD,Nidalee,Poke,Soraka,Utility Support,0
+KR_7620506783,Pyke,Assassin AD,Corki,Poke,Qiyana,Assassin AD,Diana,Burst,Alistar,CC Tank,Ahri,Burst,Amumu,CC Tank,Aphelios,DPS Marksman,Jayce,Poke,Soraka,Utility Support,0
+KR_7620439417,Viktor,Poke,Yasuo,Bruiser AD,Shyvana,Bruiser AD,Jinx,DPS Marksman,Darius,Bruiser AD,Aurora,Poke,Malzahar,Poke,Taliyah,Poke,Xayah,DPS Marksman,Amumu,CC Tank,1
+KR_7595826406,Zed,Assassin AD,Camille,Bruiser AD,Sylas,Bruiser AP,Annie,Burst,Alistar,CC Tank,Senna,DPS Marksman,Ahri,Burst,Hwei,Poke,Xayah,DPS Marksman,Zilean,Utility Support,1
+KR_7595662780,Sylas,Bruiser AP,Twitch,DPS Marksman,Nidalee,Poke,Pyke,Assassin AD,Vayne,DPS Marksman,Ezreal,Poke,Yuumi,Utility Support,Yasuo,Bruiser AD,Singed,Sustain Tank,Poppy,CC Tank,0
+KR_7392369244,Ziggs,Poke,Viktor,Poke,Zed,Assassin AD,Pantheon,Bruiser AD,Lillia,Sustain Mage,Ornn,Sustain Tank,Ezreal,Poke,Janna,Utility Support,Hwei,Poke,Riven,Bruiser AD,1
+KR_7374399654,Brand,Burst,Zeri,DPS Marksman,Poppy,CC Tank,Cassiopeia,Sustain Mage,Thresh,Utility Support,Kassadin,Burst,Jinx,DPS Marksman,Xerath,Poke,Karma,Utility Support,Graves,Poke,0
+KR_7357158054,Graves,Poke,Pantheon,Bruiser AD,Caitlyn,Poke,Nautilus,CC Tank,Morgana,Poke,Ambessa,Bruiser AD,Jhin,Poke,Sylas,Bruiser AP,Malphite,Sustain Tank,Maokai,CC Tank,1
+KR_7296338695,Vladimir,Sustain Mage,Lux,Poke,Soraka,Utility Support,Rell,CC Tank,Maokai,CC Tank,Ezreal,Poke,Akshan,Assassin AD,Jinx,DPS Marksman,Nasus,Bruiser AD,Pyke,Assassin AD,1
+KR_7284705149,Veigar,Burst,Shaco,Assassin AD,Sona,Utility Support,Zoe,Poke,Kayn,Assassin AD,Trundle,Bruiser AD,Shyvana,Bruiser AD,Samira,DPS Marksman,Morgana,Poke,Vex,Burst,0
+KR_7638022290,Yuumi,Utility Support,Vex,Burst,Jayce,Poke,Taliyah,Poke,Blitzcrank,CC Tank,Riven,Bruiser AD,Varus,Poke,Lulu,Utility Support,Vi,Bruiser AD,Ahri,Burst,0
+KR_7637987247,Tristana,DPS Marksman,Thresh,Utility Support,Corki,Poke,Shaco,Assassin AD,Lucian,DPS Marksman,Xerath,Poke,Nidalee,Poke,Maokai,CC Tank,Swain,Sustain Mage,Ezreal,Poke,0
+KR_7637186374,Kayle,Bruiser AD,Rammus,CC Tank,Shyvana,Bruiser AD,Malphite,Sustain Tank,Draven,DPS Marksman,Sejuani,CC Tank,Jhin,Poke,Diana,Burst,Soraka,Utility Support,Xerath,Poke,0
+KR_7637148175,Ziggs,Poke,Akali,Burst,Tristana,DPS Marksman,Xayah,DPS Marksman,Senna,DPS Marksman,Fizz,Burst,Nocturne,Assassin AD,Yone,Bruiser AD,Soraka,Utility Support,Pantheon,Bruiser AD,0
+KR_7637033391,Lux,Poke,Illaoi,Bruiser AD,Nautilus,CC Tank,Kalista,DPS Marksman,Neeko,Burst,Jinx,DPS Marksman,Rumble,Sustain Mage,Veigar,Burst,Zac,CC Tank,Blitzcrank,CC Tank,0
+KR_7630205860,Rumble,Sustain Mage,Smolder,Poke,Jax,Bruiser AD,Blitzcrank,CC Tank,Jinx,DPS Marksman,Vladimir,Sustain Mage,Leona,CC Tank,Pyke,Assassin AD,Aatrox,Bruiser AD,Gragas,Sustain Mage,0
+KR_7623503359,Mordekaiser,Bruiser AP,Malzahar,Poke,Vex,Burst,Nidalee,Poke,Kalista,DPS Marksman,Syndra,Burst,Sett,Bruiser AD,Varus,Poke,Neeko,Burst,Nautilus,CC Tank,0
+KR_7635452833,Seraphine,Utility Support,Morgana,Poke,Lucian,DPS Marksman,Amumu,CC Tank,Ezreal,Poke,Tristana,DPS Marksman,Varus,Poke,Naafiri,Assassin AD,Ziggs,Poke,Zac,CC Tank,0
+KR_7634925545,Renekton,Bruiser AD,Vex,Burst,Blitzcrank,CC Tank,Lucian,DPS Marksman,Gnar,Bruiser AD,Hwei,Poke,Ezreal,Poke,Neeko,Burst,Vayne,DPS Marksman,Shaco,Assassin AD,1
+KR_7630542423,Graves,Poke,Varus,Poke,Galio,CC Tank,Morgana,Poke,Ziggs,Poke,Shaco,Assassin AD,Kassadin,Burst,Caitlyn,Poke,Sion,Sustain Tank,Jhin,Poke,0
+KR_7630473340,Sejuani,CC Tank,Teemo,Poke,Nidalee,Poke,Anivia,Poke,Smolder,Poke,Rumble,Sustain Mage,Graves,Poke,Lucian,DPS Marksman,Gragas,Sustain Mage,Swain,Sustain Mage,1
+KR_7634360486,Pantheon,Bruiser AD,Morgana,Poke,Leona,CC Tank,Zeri,DPS Marksman,Karma,Utility Support,Rell,CC Tank,Vayne,DPS Marksman,Soraka,Utility Support,Orianna,Burst,Anivia,Poke,1
+KR_7635364611,Sett,Bruiser AD,Jayce,Poke,Smolder,Poke,Nautilus,CC Tank,Kennen,Burst,Pantheon,Bruiser AD,Aurora,Poke,Yasuo,Bruiser AD,Twitch,DPS Marksman,Pyke,Assassin AD,0
+KR_7632073530,Gnar,Bruiser AD,Kassadin,Burst,Ezreal,Poke,Nidalee,Poke,Heimerdinger,Poke,Lillia,Sustain Mage,Zyra,Poke,Jayce,Poke,Warwick,Bruiser AD,Vex,Burst,1
+KR_7639378250,Karma,Utility Support,Jinx,DPS Marksman,Renekton,Bruiser AD,Karthus,Burst,Zyra,Poke,Singed,Sustain Tank,Shen,Sustain Tank,Jhin,Poke,Garen,Bruiser AD,Veigar,Burst,1
+KR_7639249040,Lulu,Utility Support,Veigar,Burst,Vi,Bruiser AD,Zyra,Poke,Swain,Sustain Mage,Nautilus,CC Tank,Maokai,CC Tank,Diana,Burst,Nocturne,Assassin AD,Malphite,Sustain Tank,1
+KR_7627992331,Vayne,DPS Marksman,Azir,Poke,Syndra,Burst,Mordekaiser,Bruiser AP,Seraphine,Utility Support,Karthus,Burst,Senna,DPS Marksman,Ahri,Burst,Zac,CC Tank,Elise,Burst,1
+KR_7627520725,Malzahar,Poke,Kindred,DPS Marksman,Nasus,Bruiser AD,Vi,Bruiser AD,Anivia,Poke,Brand,Burst,Viego,Bruiser AD,Lissandra,Burst,Yuumi,Utility Support,Smolder,Poke,0
+KR_7638388279,Karma,Utility Support,Rell,CC Tank,Gangplank,Poke,Jayce,Poke,Azir,Poke,Brand,Burst,Morgana,Poke,Milio,Utility Support,Akali,Burst,Caitlyn,Poke,1
+KR_7638830590,Ziggs,Poke,Nautilus,CC Tank,Singed,Sustain Tank,Xayah,DPS Marksman,Hwei,Poke,Nami,Utility Support,Jhin,Poke,Orianna,Burst,Ashe,Poke,Kayn,Assassin AD,0
+KR_7638818561,Shyvana,Bruiser AD,Twitch,DPS Marksman,Darius,Bruiser AD,Jax,Bruiser AD,Taliyah,Poke,Graves,Poke,Malzahar,Poke,Lucian,DPS Marksman,Rengar,Assassin AD,Jhin,Poke,1
+KR_7638790562,Fizz,Burst,Renekton,Bruiser AD,Lucian,DPS Marksman,Viktor,Poke,Azir,Poke,Orianna,Burst,Anivia,Poke,Zeri,DPS Marksman,Brand,Burst,Morgana,Poke,0
+KR_7638711739,Mordekaiser,Bruiser AP,Jinx,DPS Marksman,Zed,Assassin AD,Jhin,Poke,Tristana,DPS Marksman,Rumble,Sustain Mage,Sona,Utility Support,Sylas,Bruiser AP,Lux,Poke,Alistar,CC Tank,0
+KR_7638075471,Smolder,Poke,Veigar,Burst,Sion,Sustain Tank,Riven,Bruiser AD,Lissandra,Burst,Nami,Utility Support,Vayne,DPS Marksman,Ahri,Burst,Amumu,CC Tank,Kayle,Bruiser AD,0
+KR_7638042131,Zed,Assassin AD,Veigar,Burst,Nilah,DPS Marksman,Zilean,Utility Support,Brand,Burst,Zyra,Poke,Twitch,DPS Marksman,Viktor,Poke,Ekko,Burst,Jinx,DPS Marksman,0
+KR_7637978865,Graves,Poke,Corki,Poke,Lulu,Utility Support,Lux,Poke,Mordekaiser,Bruiser AP,Morgana,Poke,Caitlyn,Poke,Ashe,Poke,Gragas,Sustain Mage,Zed,Assassin AD,1
+KR_7637858357,Karthus,Burst,Cassiopeia,Sustain Mage,Brand,Burst,Diana,Burst,Yorick,Sustain Tank,Gwen,Bruiser AP,Rell,CC Tank,Shyvana,Bruiser AD,Renekton,Bruiser AD,Jinx,DPS Marksman,0
+KR_7636844912,Ekko,Burst,Shaco,Assassin AD,Gangplank,Poke,Lux,Poke,Varus,Poke,Skarner,CC Tank,Jinx,DPS Marksman,Akshan,Assassin AD,Yone,Bruiser AD,Corki,Poke,1
+KR_7639017144,Sivir,DPS Marksman,Jax,Bruiser AD,Cassiopeia,Sustain Mage,Brand,Burst,Garen,Bruiser AD,Gangplank,Poke,Thresh,Utility Support,Malzahar,Poke,Smolder,Poke,Leona,CC Tank,0
+KR_7638995234,Malphite,Sustain Tank,Ahri,Burst,Mordekaiser,Bruiser AP,Malzahar,Poke,Karma,Utility Support,Orianna,Burst,Akshan,Assassin AD,Syndra,Burst,Heimerdinger,Poke,Lucian,DPS Marksman,0
+KR_7636760096,Lulu,Utility Support,Vex,Burst,Malphite,Sustain Tank,Ahri,Burst,Shyvana,Bruiser AD,Varus,Poke,Ashe,Poke,Leona,CC Tank,Zoe,Poke,Jinx,DPS Marksman,0
+KR_7636701675,Kayle,Bruiser AD,Ahri,Burst,Jhin,Poke,Akali,Burst,Senna,DPS Marksman,Karthus,Burst,Blitzcrank,CC Tank,Ashe,Poke,Varus,Poke,Syndra,Burst,1
+KR_7636658479,Darius,Bruiser AD,Tristana,DPS Marksman,Tryndamere,Bruiser AD,Sona,Utility Support,Heimerdinger,Poke,Renekton,Bruiser AD,Sylas,Bruiser AP,Pyke,Assassin AD,Caitlyn,Poke,Karma,Utility Support,1
+KR_7636396825,Lux,Poke,Singed,Sustain Tank,Xerath,Poke,Taliyah,Poke,Quinn,Poke,Orianna,Burst,Sylas,Bruiser AP,Vex,Burst,Lillia,Sustain Mage,Gangplank,Poke,1
+KR_7634249446,Corki,Poke,Bard,Utility Support,Samira,DPS Marksman,Viego,Bruiser AD,Sejuani,CC Tank,Yuumi,Utility Support,Jinx,DPS Marksman,Kindred,DPS Marksman,Kayle,Bruiser AD,Galio,CC Tank,1
+KR_7623104832,Rumble,Sustain Mage,Yuumi,Utility Support,Xerath,Poke,Ahri,Burst,Katarina,Burst,Smolder,Poke,Zed,Assassin AD,Zeri,DPS Marksman,Urgot,Bruiser AD,Malphite,Sustain Tank,1
+KR_7637839626,Akali,Burst,Hwei,Poke,Lissandra,Burst,Corki,Poke,Gragas,Sustain Mage,Brand,Burst,Kennen,Burst,Graves,Poke,Xayah,DPS Marksman,Braum,CC Tank,0
+KR_7637357342,Kennen,Burst,Nilah,DPS Marksman,Pyke,Assassin AD,Renekton,Bruiser AD,Gragas,Sustain Mage,Fizz,Burst,Lux,Poke,Aatrox,Bruiser AD,Jayce,Poke,Tristana,DPS Marksman,0
+KR_7637240778,Nocturne,Assassin AD,Viktor,Poke,Maokai,CC Tank,Graves,Poke,Viego,Bruiser AD,Vi,Bruiser AD,Rumble,Sustain Mage,Pantheon,Bruiser AD,Sivir,DPS Marksman,Teemo,Poke,1
+KR_7637181713,Graves,Poke,Seraphine,Utility Support,Kennen,Burst,Xayah,DPS Marksman,Shyvana,Bruiser AD,Teemo,Poke,Lillia,Sustain Mage,Ahri,Burst,Varus,Poke,Nidalee,Poke,0
+KR_7637163746,Vex,Burst,Sivir,DPS Marksman,Jinx,DPS Marksman,Malzahar,Poke,Alistar,CC Tank,Vayne,DPS Marksman,Cassiopeia,Sustain Mage,Pantheon,Bruiser AD,Lissandra,Burst,Heimerdinger,Poke,1
+KR_7638728926,Morgana,Poke,Singed,Sustain Tank,Akali,Burst,Seraphine,Utility Support,Lucian,DPS Marksman,Smolder,Poke,Sivir,DPS Marksman,Soraka,Utility Support,Katarina,Burst,Jhin,Poke,1
+KR_7638722148,Yasuo,Bruiser AD,Urgot,Bruiser AD,Nami,Utility Support,Xayah,DPS Marksman,Sett,Bruiser AD,Jhin,Poke,Soraka,Utility Support,Kayle,Bruiser AD,Ezreal,Poke,Graves,Poke,1
+KR_7639351039,Rumble,Sustain Mage,Taric,Utility Support,Aphelios,DPS Marksman,Ashe,Poke,Illaoi,Bruiser AD,Vayne,DPS Marksman,Nautilus,CC Tank,Sylas,Bruiser AP,Lillia,Sustain Mage,Morgana,Poke,0
+KR_7637807029,Garen,Bruiser AD,Jax,Bruiser AD,Lulu,Utility Support,Aphelios,DPS Marksman,Neeko,Burst,Cassiopeia,Sustain Mage,Kayle,Bruiser AD,Xerath,Poke,Shyvana,Bruiser AD,Yasuo,Bruiser AD,0
+KR_7637542569,Heimerdinger,Poke,Caitlyn,Poke,Pyke,Assassin AD,Karthus,Burst,Skarner,CC Tank,Teemo,Poke,Malphite,Sustain Tank,Orianna,Burst,Xayah,DPS Marksman,Neeko,Burst,1
+KR_7637292157,Vladimir,Sustain Mage,Ornn,Sustain Tank,Diana,Burst,Shyvana,Bruiser AD,Malzahar,Poke,Akshan,Assassin AD,Viego,Bruiser AD,Sett,Bruiser AD,Amumu,CC Tank,Nami,Utility Support,0
+KR_7639259182,Sion,Sustain Tank,Draven,DPS Marksman,Blitzcrank,CC Tank,Teemo,Poke,Annie,Burst,Morgana,Poke,Gragas,Sustain Mage,Caitlyn,Poke,Neeko,Burst,Quinn,Poke,1
+KR_7638185252,Tristana,DPS Marksman,Lulu,Utility Support,Morgana,Poke,Lucian,DPS Marksman,Braum,CC Tank,Singed,Sustain Tank,Sion,Sustain Tank,Ambessa,Bruiser AD,Taliyah,Poke,Zeri,DPS Marksman,1
+KR_7636591569,Elise,Burst,Volibear,Sustain Tank,Karma,Utility Support,Lux,Poke,Morgana,Poke,Shaco,Assassin AD,Zoe,Poke,Swain,Sustain Mage,Lucian,DPS Marksman,Jinx,DPS Marksman,1
+KR_7636248366,Lissandra,Burst,Katarina,Burst,Thresh,Utility Support,Nidalee,Poke,Heimerdinger,Poke,Jinx,DPS Marksman,Pyke,Assassin AD,Kayle,Bruiser AD,Braum,CC Tank,Janna,Utility Support,0
+KR_7624901679,Caitlyn,Poke,Lulu,Utility Support,Rumble,Sustain Mage,Lux,Poke,Fiora,Bruiser AD,Yorick,Sustain Tank,Jayce,Poke,Jinx,DPS Marksman,Akali,Burst,Janna,Utility Support,1
+KR_7624772308,Viktor,Poke,Milio,Utility Support,Rell,CC Tank,Jhin,Poke,Akshan,Assassin AD,Rumble,Sustain Mage,Ekko,Burst,Taric,Utility Support,Shyvana,Bruiser AD,Braum,CC Tank,0
+KR_7624685032,Senna,DPS Marksman,Graves,Poke,Gwen,Bruiser AP,Milio,Utility Support,Darius,Bruiser AD,Jinx,DPS Marksman,Swain,Sustain Mage,Nidalee,Poke,Caitlyn,Poke,Viego,Bruiser AD,0
+KR_7601485451,Karthus,Burst,Orianna,Burst,Fizz,Burst,Xayah,DPS Marksman,Hwei,Poke,Garen,Bruiser AD,Poppy,CC Tank,Jayce,Poke,Janna,Utility Support,Morgana,Poke,1
+KR_7634584252,Nidalee,Poke,Ornn,Sustain Tank,Karthus,Burst,Lissandra,Burst,Ashe,Poke,Sejuani,CC Tank,Zilean,Utility Support,Caitlyn,Poke,Aurora,Poke,Diana,Burst,0
+KR_7633471469,Mordekaiser,Bruiser AP,Nautilus,CC Tank,Gragas,Sustain Mage,Teemo,Poke,Nasus,Bruiser AD,Tryndamere,Bruiser AD,Blitzcrank,CC Tank,Ahri,Burst,Kassadin,Burst,Vayne,DPS Marksman,0
+KR_7633434541,Xerath,Poke,Yorick,Sustain Tank,Orianna,Burst,Taliyah,Poke,Swain,Sustain Mage,Caitlyn,Poke,Thresh,Utility Support,Sett,Bruiser AD,Sivir,DPS Marksman,Vladimir,Sustain Mage,1
+KR_7639166044,Thresh,Utility Support,Zoe,Poke,Jhin,Poke,Morgana,Poke,Shaco,Assassin AD,Zac,CC Tank,Irelia,Bruiser AD,Teemo,Poke,Jinx,DPS Marksman,Garen,Bruiser AD,1
+KR_7637804396,Ezreal,Poke,Darius,Bruiser AD,Sejuani,CC Tank,Talon,Assassin AD,Kennen,Burst,Nautilus,CC Tank,Samira,DPS Marksman,Kindred,DPS Marksman,Veigar,Burst,Aatrox,Bruiser AD,0
+KR_7636562676,Lux,Poke,Jayce,Poke,Shaco,Assassin AD,Thresh,Utility Support,Kennen,Burst,Viktor,Poke,Samira,DPS Marksman,Nautilus,CC Tank,Lulu,Utility Support,Nidalee,Poke,1
+KR_7636262521,Teemo,Poke,Taliyah,Poke,Lillia,Sustain Mage,Sivir,DPS Marksman,Trundle,Bruiser AD,Bard,Utility Support,Zyra,Poke,Lucian,DPS Marksman,Viktor,Poke,Heimerdinger,Poke,0
+KR_7636516449,Neeko,Burst,Ashe,Poke,Urgot,Bruiser AD,Xayah,DPS Marksman,Maokai,CC Tank,Galio,CC Tank,Kennen,Burst,Xerath,Poke,Seraphine,Utility Support,Tryndamere,Bruiser AD,1
+KR_7631233733,Zyra,Poke,Ashe,Poke,Darius,Bruiser AD,Smolder,Poke,Neeko,Burst,Anivia,Poke,Veigar,Burst,Nami,Utility Support,Vayne,DPS Marksman,Morgana,Poke,0
+KR_7629321132,Morgana,Poke,Ezreal,Poke,Sett,Bruiser AD,Cassiopeia,Sustain Mage,Shen,Sustain Tank,Garen,Bruiser AD,Shaco,Assassin AD,Senna,DPS Marksman,Heimerdinger,Poke,Caitlyn,Poke,0
+KR_7626489200,Zeri,DPS Marksman,Camille,Bruiser AD,Yuumi,Utility Support,Tryndamere,Bruiser AD,Alistar,CC Tank,Malzahar,Poke,Annie,Burst,Bard,Utility Support,Ivern,Utility Support,Ziggs,Poke,1
+KR_7638867715,Blitzcrank,CC Tank,Karthus,Burst,Hwei,Poke,Darius,Bruiser AD,Syndra,Burst,Tristana,DPS Marksman,Corki,Poke,Riven,Bruiser AD,Kassadin,Burst,Zoe,Poke,1
+KR_7638393279,Varus,Poke,Akali,Burst,Katarina,Burst,Zoe,Poke,Amumu,CC Tank,Viktor,Poke,Malphite,Sustain Tank,Orianna,Burst,Lulu,Utility Support,Vayne,DPS Marksman,1
+KR_7638305682,Kalista,DPS Marksman,Tryndamere,Bruiser AD,Brand,Burst,Seraphine,Utility Support,Nautilus,CC Tank,Jayce,Poke,Sivir,DPS Marksman,Riven,Bruiser AD,Milio,Utility Support,Warwick,Bruiser AD,0
+KR_7636964568,Viktor,Poke,Maokai,CC Tank,Lucian,DPS Marksman,Sylas,Bruiser AP,Sett,Bruiser AD,Orianna,Burst,Brand,Burst,Janna,Utility Support,Corki,Poke,Ryze,Bruiser AD,1
+KR_7636084510,Kayle,Bruiser AD,Ziggs,Poke,Lucian,DPS Marksman,Amumu,CC Tank,Lux,Poke,Aatrox,Bruiser AD,Zoe,Poke,Pyke,Assassin AD,Poppy,CC Tank,Kennen,Burst,1
+KR_7629335891,Gragas,Sustain Mage,Smolder,Poke,Amumu,CC Tank,Jayce,Poke,Udyr,Bruiser AD,Ekko,Burst,Katarina,Burst,Malzahar,Poke,Xerath,Poke,Shaco,Assassin AD,1
+KR_7629237205,Sylas,Bruiser AP,Yuumi,Utility Support,Lissandra,Burst,Akshan,Assassin AD,Talon,Assassin AD,Zeri,DPS Marksman,Yone,Bruiser AD,Blitzcrank,CC Tank,Malphite,Sustain Tank,Teemo,Poke,0
+KR_7629191373,Aphelios,DPS Marksman,Thresh,Utility Support,Viego,Bruiser AD,Bard,Utility Support,Garen,Bruiser AD,Vi,Bruiser AD,Heimerdinger,Poke,Ivern,Utility Support,Kled,Bruiser AD,Hwei,Poke,0
+KR_7634602247,Quinn,Poke,Amumu,CC Tank,Aatrox,Bruiser AD,Rumble,Sustain Mage,Teemo,Poke,Pantheon,Bruiser AD,Jinx,DPS Marksman,Blitzcrank,CC Tank,Smolder,Poke,Janna,Utility Support,1
+KR_7631164894,Neeko,Burst,Thresh,Utility Support,Jinx,DPS Marksman,Jayce,Poke,Tristana,DPS Marksman,Lux,Poke,Caitlyn,Poke,Annie,Burst,Quinn,Poke,Skarner,CC Tank,1
+KR_7637471203,Malzahar,Poke,Fizz,Burst,Pantheon,Bruiser AD,Nidalee,Poke,Viego,Bruiser AD,Jhin,Poke,Nami,Utility Support,Darius,Bruiser AD,Tristana,DPS Marksman,Cassiopeia,Sustain Mage,0
+KR_7637151257,Rell,CC Tank,Kindred,DPS Marksman,Orianna,Burst,Gragas,Sustain Mage,Aatrox,Bruiser AD,Pantheon,Bruiser AD,Fizz,Burst,Jhin,Poke,Xerath,Poke,Lux,Poke,1
+KR_7636547064,Pyke,Assassin AD,Lux,Poke,Ornn,Sustain Tank,Vayne,DPS Marksman,Nautilus,CC Tank,Sivir,DPS Marksman,Kennen,Burst,Hwei,Poke,Lulu,Utility Support,Sylas,Bruiser AP,1
+KR_7636476410,Yone,Bruiser AD,Xerath,Poke,Teemo,Poke,Lissandra,Burst,Sylas,Bruiser AP,Shaco,Assassin AD,Zyra,Poke,Kalista,DPS Marksman,Senna,DPS Marksman,Nasus,Bruiser AD,1
+KR_7636158719,Nocturne,Assassin AD,Shaco,Assassin AD,Thresh,Utility Support,Renekton,Bruiser AD,Vayne,DPS Marksman,Braum,CC Tank,Varus,Poke,Rumble,Sustain Mage,Ziggs,Poke,Samira,DPS Marksman,1
+KR_7636109867,Ziggs,Poke,Jinx,DPS Marksman,Seraphine,Utility Support,Karma,Utility Support,Zeri,DPS Marksman,Xerath,Poke,Morgana,Poke,Lulu,Utility Support,Shen,Sustain Tank,Smolder,Poke,1
+KR_7635746094,Vex,Burst,Darius,Bruiser AD,Anivia,Poke,Thresh,Utility Support,Viktor,Poke,Tryndamere,Bruiser AD,Ornn,Sustain Tank,Garen,Bruiser AD,Nidalee,Poke,Cassiopeia,Sustain Mage,0
+KR_7638567449,Vayne,DPS Marksman,Katarina,Burst,Taric,Utility Support,Ezreal,Poke,Quinn,Poke,Zeri,DPS Marksman,Teemo,Poke,Malphite,Sustain Tank,Aatrox,Bruiser AD,Kassadin,Burst,1
+KR_7637647368,Blitzcrank,CC Tank,Seraphine,Utility Support,Draven,DPS Marksman,Swain,Sustain Mage,Sett,Bruiser AD,Graves,Poke,Taliyah,Poke,Zoe,Poke,Syndra,Burst,Urgot,Bruiser AD,1
+KR_7637597239,Shaco,Assassin AD,Zyra,Poke,Ornn,Sustain Tank,Zeri,DPS Marksman,Lux,Poke,Maokai,CC Tank,Corki,Poke,Viktor,Poke,Xayah,DPS Marksman,Jhin,Poke,1
+KR_7637482948,Fiora,Bruiser AD,Janna,Utility Support,Yone,Bruiser AD,Seraphine,Utility Support,Ashe,Poke,Tristana,DPS Marksman,Briar,Bruiser AD,Kennen,Burst,Blitzcrank,CC Tank,Sion,Sustain Tank,1
+KR_7636062714,Bard,Utility Support,Heimerdinger,Poke,Urgot,Bruiser AD,Caitlyn,Poke,Lillia,Sustain Mage,Sivir,DPS Marksman,Smolder,Poke,Xerath,Poke,Jayce,Poke,Nautilus,CC Tank,1
+KR_7636035172,Viego,Bruiser AD,Ezreal,Poke,Teemo,Poke,Akshan,Assassin AD,Rumble,Sustain Mage,Yone,Bruiser AD,Graves,Poke,Janna,Utility Support,Ziggs,Poke,Vex,Burst,1
+KR_7632513191,Ekko,Burst,Nidalee,Poke,Jinx,DPS Marksman,Azir,Poke,Swain,Sustain Mage,Xerath,Poke,Lucian,DPS Marksman,Fiora,Bruiser AD,Janna,Utility Support,Zeri,DPS Marksman,0
+KR_7610933840,Yuumi,Utility Support,Gnar,Bruiser AD,Aurora,Poke,Lissandra,Burst,Amumu,CC Tank,Graves,Poke,Ezreal,Poke,Illaoi,Bruiser AD,Riven,Bruiser AD,Jhin,Poke,0
+KR_7610909163,Maokai,CC Tank,Naafiri,Assassin AD,Thresh,Utility Support,Twitch,DPS Marksman,Caitlyn,Poke,Syndra,Burst,Sylas,Bruiser AP,Irelia,Bruiser AD,Aphelios,DPS Marksman,Vladimir,Sustain Mage,1
+KR_7637445936,Malphite,Sustain Tank,Zyra,Poke,Caitlyn,Poke,Jayce,Poke,Seraphine,Utility Support,Neeko,Burst,Yone,Bruiser AD,Graves,Poke,Soraka,Utility Support,Karthus,Burst,0
+KR_7635999769,Kennen,Burst,Jhin,Poke,Malzahar,Poke,Ashe,Poke,Mordekaiser,Bruiser AP,Zed,Assassin AD,Hwei,Poke,Quinn,Poke,Sett,Bruiser AD,Sylas,Bruiser AP,1
+KR_7629810028,Teemo,Poke,Lulu,Utility Support,Zyra,Poke,Corki,Poke,Graves,Poke,Zed,Assassin AD,Sylas,Bruiser AP,Jhin,Poke,Lillia,Sustain Mage,Kayle,Bruiser AD,1
+KR_7628954980,Jhin,Poke,Lux,Poke,Volibear,Sustain Tank,Morgana,Poke,Gragas,Sustain Mage,Yone,Bruiser AD,Tristana,DPS Marksman,Urgot,Bruiser AD,Maokai,CC Tank,Varus,Poke,1
+KR_7634411186,Veigar,Burst,Vex,Burst,Jhin,Poke,Trundle,Bruiser AD,Darius,Bruiser AD,Hwei,Poke,Morgana,Poke,Diana,Burst,Sejuani,CC Tank,Rakan,Utility Support,1
+KR_7639504196,Vayne,DPS Marksman,Nidalee,Poke,Taliyah,Poke,Pantheon,Bruiser AD,Aatrox,Bruiser AD,Alistar,CC Tank,Zeri,DPS Marksman,Bard,Utility Support,Singed,Sustain Tank,Rumble,Sustain Mage,0
+KR_7639455805,Naafiri,Assassin AD,Gwen,Bruiser AP,Ornn,Sustain Tank,Viego,Bruiser AD,Nidalee,Poke,Thresh,Utility Support,Yuumi,Utility Support,Kayle,Bruiser AD,Zed,Assassin AD,Jinx,DPS Marksman,0
+KR_7638440903,Zeri,DPS Marksman,Smolder,Poke,Viego,Bruiser AD,Syndra,Burst,Jinx,DPS Marksman,Kindred,DPS Marksman,Pyke,Assassin AD,Quinn,Poke,Veigar,Burst,Sylas,Bruiser AP,1
+KR_7636747704,Renekton,Bruiser AD,Trundle,Bruiser AD,Shaco,Assassin AD,Xayah,DPS Marksman,Katarina,Burst,Seraphine,Utility Support,Corki,Poke,Ziggs,Poke,Annie,Burst,Caitlyn,Poke,0
+KR_7635074571,Twitch,DPS Marksman,Blitzcrank,CC Tank,Sylas,Bruiser AP,Irelia,Bruiser AD,Veigar,Burst,Lucian,DPS Marksman,Gangplank,Poke,Shaco,Assassin AD,Nidalee,Poke,Maokai,CC Tank,0
+KR_7631485624,Morgana,Poke,Yuumi,Utility Support,Malzahar,Poke,Zeri,DPS Marksman,Sion,Sustain Tank,Twitch,DPS Marksman,Yone,Bruiser AD,Janna,Utility Support,Brand,Burst,Amumu,CC Tank,1
+KR_7630016846,Kayle,Bruiser AD,Nasus,Bruiser AD,Pyke,Assassin AD,Bard,Utility Support,Malphite,Sustain Tank,Caitlyn,Poke,Vayne,DPS Marksman,Sylas,Bruiser AP,Ziggs,Poke,Zilean,Utility Support,0
+KR_7633996148,Maokai,CC Tank,Sivir,DPS Marksman,Veigar,Burst,Orianna,Burst,Jayce,Poke,Sona,Utility Support,Yone,Bruiser AD,Blitzcrank,CC Tank,Lucian,DPS Marksman,Lux,Poke,0
+KR_7629482939,Nami,Utility Support,Samira,DPS Marksman,Pyke,Assassin AD,Brand,Burst,Rakan,Utility Support,Senna,DPS Marksman,Katarina,Burst,Lux,Poke,Galio,CC Tank,Alistar,CC Tank,1
+KR_7629393757,Sejuani,CC Tank,Hwei,Poke,Pantheon,Bruiser AD,Azir,Poke,Renekton,Bruiser AD,Viktor,Poke,Malphite,Sustain Tank,Morgana,Poke,Xayah,DPS Marksman,Nidalee,Poke,1
+KR_7629255531,Katarina,Burst,Ezreal,Poke,Sett,Bruiser AD,Soraka,Utility Support,Aurora,Poke,Smolder,Poke,Karthus,Burst,Ziggs,Poke,Jhin,Poke,Senna,DPS Marksman,1
+KR_7625756105,Seraphine,Utility Support,Bard,Utility Support,Naafiri,Assassin AD,Jayce,Poke,Ezreal,Poke,Kayle,Bruiser AD,Vayne,DPS Marksman,Darius,Bruiser AD,Lillia,Sustain Mage,Anivia,Poke,1
+KR_7620474426,Samira,DPS Marksman,Vi,Bruiser AD,Annie,Burst,Senna,DPS Marksman,Rakan,Utility Support,Sivir,DPS Marksman,Nidalee,Poke,Nami,Utility Support,Varus,Poke,Mordekaiser,Bruiser AP,0
+KR_7620458771,Diana,Burst,Nautilus,CC Tank,Aurora,Poke,Tristana,DPS Marksman,Viego,Bruiser AD,Heimerdinger,Poke,Yuumi,Utility Support,Yone,Bruiser AD,Ryze,Bruiser AD,Milio,Utility Support,0
+KR_7617278327,Karma,Utility Support,Amumu,CC Tank,Vladimir,Sustain Mage,Teemo,Poke,Anivia,Poke,Bard,Utility Support,Yasuo,Bruiser AD,Heimerdinger,Poke,Morgana,Poke,Kayle,Bruiser AD,0
+KR_7638406681,Vi,Bruiser AD,Karma,Utility Support,Nami,Utility Support,Jayce,Poke,Sivir,DPS Marksman,Viego,Bruiser AD,Smolder,Poke,Varus,Poke,Urgot,Bruiser AD,Rakan,Utility Support,1
+KR_7624919185,Karma,Utility Support,Zyra,Poke,Sett,Bruiser AD,Alistar,CC Tank,Ezreal,Poke,Braum,CC Tank,Kennen,Burst,Syndra,Burst,Pantheon,Bruiser AD,Xerath,Poke,1
+KR_7636840049,Samira,DPS Marksman,Morgana,Poke,Milio,Utility Support,Shen,Sustain Tank,Sona,Utility Support,Fizz,Burst,Malphite,Sustain Tank,Yasuo,Bruiser AD,Maokai,CC Tank,Twitch,DPS Marksman,1
+KR_7630393139,Kindred,DPS Marksman,Darius,Bruiser AD,Teemo,Poke,Xayah,DPS Marksman,Renekton,Bruiser AD,Brand,Burst,Varus,Poke,Orianna,Burst,Nasus,Bruiser AD,Pantheon,Bruiser AD,1
+KR_7639257562,Urgot,Bruiser AD,Ashe,Poke,Jhin,Poke,Caitlyn,Poke,Kayle,Bruiser AD,Morgana,Poke,Smolder,Poke,Yasuo,Bruiser AD,Sion,Sustain Tank,Nidalee,Poke,0
+KR_7623305853,Neeko,Burst,Morgana,Poke,Shen,Sustain Tank,Sivir,DPS Marksman,Taliyah,Poke,Ezreal,Poke,Malzahar,Poke,Caitlyn,Poke,Janna,Utility Support,Amumu,CC Tank,1
+KR_7622927716,Ezreal,Poke,Ekko,Burst,Shen,Sustain Tank,Gwen,Bruiser AP,Jayce,Poke,Nidalee,Poke,Teemo,Poke,Mordekaiser,Bruiser AP,Aphelios,DPS Marksman,Smolder,Poke,0
+KR_7590453437,Katarina,Burst,Amumu,CC Tank,Ryze,Bruiser AD,Twitch,DPS Marksman,Gwen,Bruiser AP,Rumble,Sustain Mage,Poppy,CC Tank,Kindred,DPS Marksman,Morgana,Poke,Ziggs,Poke,1
+KR_7590197137,Volibear,Sustain Tank,Trundle,Bruiser AD,Poppy,CC Tank,Lucian,DPS Marksman,Rakan,Utility Support,Zac,CC Tank,Vayne,DPS Marksman,Akali,Burst,Ahri,Burst,Ashe,Poke,0
+KR_7587281485,Sona,Utility Support,Aatrox,Bruiser AD,Annie,Burst,Ahri,Burst,Ezreal,Poke,Yone,Bruiser AD,Braum,CC Tank,Gragas,Sustain Mage,Lux,Poke,Ashe,Poke,0
+KR_7638368130,Varus,Poke,Nidalee,Poke,Annie,Burst,Nilah,DPS Marksman,Cassiopeia,Sustain Mage,Zed,Assassin AD,Blitzcrank,CC Tank,Corki,Poke,Seraphine,Utility Support,Kayle,Bruiser AD,0
+KR_7638062627,Taliyah,Poke,Karma,Utility Support,Pyke,Assassin AD,Nilah,DPS Marksman,Ryze,Bruiser AD,Viktor,Poke,Lulu,Utility Support,Quinn,Poke,Nautilus,CC Tank,Lucian,DPS Marksman,0
+KR_7634938787,Ahri,Burst,Nidalee,Poke,Ashe,Poke,Teemo,Poke,Zed,Assassin AD,Neeko,Burst,Lulu,Utility Support,Poppy,CC Tank,Ziggs,Poke,Akali,Burst,1
+KR_7639349960,Zoe,Poke,Warwick,Bruiser AD,Jinx,DPS Marksman,Nidalee,Poke,Rell,CC Tank,Rumble,Sustain Mage,Jayce,Poke,Urgot,Bruiser AD,Caitlyn,Poke,Elise,Burst,0
+KR_7639365575,Morgana,Poke,Hwei,Poke,Viktor,Poke,Twitch,DPS Marksman,Vi,Bruiser AD,Neeko,Burst,Gangplank,Poke,Rumble,Sustain Mage,Diana,Burst,Nilah,DPS Marksman,1
+KR_7639295339,Renekton,Bruiser AD,Zoe,Poke,Sona,Utility Support,Maokai,CC Tank,Lulu,Utility Support,Thresh,Utility Support,Fiora,Bruiser AD,Nidalee,Poke,Jinx,DPS Marksman,Ahri,Burst,1
+KR_7639209899,Ezreal,Poke,Jhin,Poke,Galio,CC Tank,Xayah,DPS Marksman,Sett,Bruiser AD,Malzahar,Poke,Yorick,Sustain Tank,Pantheon,Bruiser AD,Thresh,Utility Support,Lux,Poke,0
+KR_7639183226,Brand,Burst,Lucian,DPS Marksman,Malphite,Sustain Tank,Morgana,Poke,Jinx,DPS Marksman,Caitlyn,Poke,Gangplank,Poke,Jhin,Poke,Galio,CC Tank,Lux,Poke,0
+KR_7634768394,Pyke,Assassin AD,Sivir,DPS Marksman,Leona,CC Tank,Senna,DPS Marksman,Sion,Sustain Tank,Graves,Poke,Aphelios,DPS Marksman,Udyr,Bruiser AD,Kennen,Burst,Katarina,Burst,1
+KR_7631484334,Corki,Poke,Ivern,Utility Support,Xerath,Poke,Annie,Burst,Kennen,Burst,Aatrox,Bruiser AD,Varus,Poke,Vi,Bruiser AD,Kled,Bruiser AD,Urgot,Bruiser AD,0
+KR_7629881049,Sett,Bruiser AD,Xerath,Poke,Taric,Utility Support,Shen,Sustain Tank,Vayne,DPS Marksman,Ezreal,Poke,Senna,DPS Marksman,Jhin,Poke,Rumble,Sustain Mage,Vladimir,Sustain Mage,1
+KR_7637624376,Yuumi,Utility Support,Aatrox,Bruiser AD,Jhin,Poke,Brand,Burst,Olaf,Bruiser AD,Akali,Burst,Senna,DPS Marksman,Pyke,Assassin AD,Nautilus,CC Tank,Nasus,Bruiser AD,1
+KR_7637561840,Amumu,CC Tank,Volibear,Sustain Tank,Vladimir,Sustain Mage,Ekko,Burst,Thresh,Utility Support,Caitlyn,Poke,Urgot,Bruiser AD,Malphite,Sustain Tank,Sylas,Bruiser AP,Lux,Poke,0
+KR_7639210920,Riven,Bruiser AD,Pyke,Assassin AD,Qiyana,Assassin AD,Sett,Bruiser AD,Azir,Poke,Veigar,Burst,Kayle,Bruiser AD,Graves,Poke,Janna,Utility Support,Lux,Poke,1
+KR_7629638904,Camille,Bruiser AD,Akali,Burst,Riven,Bruiser AD,Thresh,Utility Support,Ashe,Poke,Sion,Sustain Tank,Malphite,Sustain Tank,Nidalee,Poke,Samira,DPS Marksman,Twitch,DPS Marksman,1
+KR_7629516766,Neeko,Burst,Zilean,Utility Support,Brand,Burst,Ezreal,Poke,Rakan,Utility Support,Rammus,CC Tank,Nidalee,Poke,Maokai,CC Tank,Akali,Burst,Yone,Bruiser AD,1
+KR_7625627431,Jhin,Poke,Ziggs,Poke,Caitlyn,Poke,Jayce,Poke,Kindred,DPS Marksman,Bard,Utility Support,Darius,Bruiser AD,Kennen,Burst,Veigar,Burst,Anivia,Poke,1
+KR_7637984315,Teemo,Poke,Malphite,Sustain Tank,Heimerdinger,Poke,Vi,Bruiser AD,Maokai,CC Tank,Pyke,Assassin AD,Lulu,Utility Support,Jhin,Poke,Sylas,Bruiser AP,Neeko,Burst,1
+KR_7639289409,Brand,Burst,Pantheon,Bruiser AD,Shen,Sustain Tank,Yuumi,Utility Support,Caitlyn,Poke,Renekton,Bruiser AD,Kayle,Bruiser AD,Akali,Burst,Varus,Poke,Sivir,DPS Marksman,1
+KR_7620060706,Smolder,Poke,Swain,Sustain Mage,Pantheon,Bruiser AD,Xayah,DPS Marksman,Anivia,Poke,Graves,Poke,Mordekaiser,Bruiser AP,Rell,CC Tank,Zyra,Poke,Orianna,Burst,0
+KR_7612014924,Ryze,Bruiser AD,Kassadin,Burst,Vi,Bruiser AD,Xayah,DPS Marksman,Leona,CC Tank,Camille,Bruiser AD,Braum,CC Tank,Pyke,Assassin AD,Anivia,Poke,Zyra,Poke,1
+KR_7611963336,Corki,Poke,Zoe,Poke,Yasuo,Bruiser AD,Ahri,Burst,Orianna,Burst,Ashe,Poke,Senna,DPS Marksman,Smolder,Poke,Lulu,Utility Support,Amumu,CC Tank,1
+KR_7603800031,Zeri,DPS Marksman,Ashe,Poke,Gragas,Sustain Mage,Leona,CC Tank,Rumble,Sustain Mage,Blitzcrank,CC Tank,Shaco,Assassin AD,Malphite,Sustain Tank,Olaf,Bruiser AD,Veigar,Burst,1
+KR_7639274008,Trundle,Bruiser AD,Gragas,Sustain Mage,Katarina,Burst,Leona,CC Tank,Ashe,Poke,Caitlyn,Poke,Zed,Assassin AD,Cassiopeia,Sustain Mage,Yasuo,Bruiser AD,Nidalee,Poke,0
+KR_7639057271,Veigar,Burst,Jinx,DPS Marksman,Talon,Assassin AD,Ziggs,Poke,Rakan,Utility Support,Swain,Sustain Mage,Morgana,Poke,Aphelios,DPS Marksman,Alistar,CC Tank,Gragas,Sustain Mage,0
+KR_7639350136,Fizz,Burst,Nami,Utility Support,Ahri,Burst,Xayah,DPS Marksman,Swain,Sustain Mage,Tristana,DPS Marksman,Xerath,Poke,Volibear,Sustain Tank,Kennen,Burst,Akshan,Assassin AD,0
+KR_7638111487,Morgana,Poke,Jinx,DPS Marksman,Vladimir,Sustain Mage,Corki,Poke,Rammus,CC Tank,Poppy,CC Tank,Ashe,Poke,Smolder,Poke,Jayce,Poke,Milio,Utility Support,0
+KR_7638034505,Orianna,Burst,Renekton,Bruiser AD,Senna,DPS Marksman,Xayah,DPS Marksman,Lulu,Utility Support,Camille,Bruiser AD,Leona,CC Tank,Ahri,Burst,Gragas,Sustain Mage,Yone,Bruiser AD,1
+KR_7637958881,Ryze,Bruiser AD,Vladimir,Sustain Mage,Sion,Sustain Tank,Zyra,Poke,Pantheon,Bruiser AD,Ornn,Sustain Tank,Pyke,Assassin AD,Orianna,Burst,Akshan,Assassin AD,Maokai,CC Tank,1
+KR_7633144128,Jinx,DPS Marksman,Nasus,Bruiser AD,Tryndamere,Bruiser AD,Elise,Burst,Ahri,Burst,Swain,Sustain Mage,Teemo,Poke,Thresh,Utility Support,Xayah,DPS Marksman,Naafiri,Assassin AD,0
+KR_7630550371,Ashe,Poke,Karthus,Burst,Anivia,Poke,Xayah,DPS Marksman,Yone,Bruiser AD,Kennen,Burst,Orianna,Burst,Nautilus,CC Tank,Sona,Utility Support,Maokai,CC Tank,0
+KR_7627117027,Ezreal,Poke,Ahri,Burst,Swain,Sustain Mage,Yuumi,Utility Support,Vladimir,Sustain Mage,Senna,DPS Marksman,Riven,Bruiser AD,Ashe,Poke,Jax,Bruiser AD,Yasuo,Bruiser AD,1
+KR_7639259514,Darius,Bruiser AD,Ahri,Burst,Teemo,Poke,Zyra,Poke,Akshan,Assassin AD,Ezreal,Poke,Caitlyn,Poke,Malphite,Sustain Tank,Kassadin,Burst,Kindred,DPS Marksman,1
+KR_7639205826,Vex,Burst,Ashe,Poke,Irelia,Bruiser AD,Ekko,Burst,Graves,Poke,Sivir,DPS Marksman,Blitzcrank,CC Tank,Pyke,Assassin AD,Lux,Poke,Poppy,CC Tank,0
+KR_7639187695,Aurora,Poke,Graves,Poke,Seraphine,Utility Support,Nasus,Bruiser AD,Gragas,Sustain Mage,Vi,Bruiser AD,Yuumi,Utility Support,Pyke,Assassin AD,Ashe,Poke,Viktor,Poke,0
+KR_7638152162,Mordekaiser,Bruiser AP,Twitch,DPS Marksman,Jayce,Poke,Hwei,Poke,Rakan,Utility Support,Jhin,Poke,Annie,Burst,Zac,CC Tank,Ahri,Burst,Bard,Utility Support,0
+KR_7638109325,Yasuo,Bruiser AD,Lissandra,Burst,Caitlyn,Poke,Sett,Bruiser AD,Maokai,CC Tank,Akali,Burst,Aatrox,Bruiser AD,Veigar,Burst,Ashe,Poke,Vex,Burst,1
+KR_7638048539,Draven,DPS Marksman,Graves,Poke,Jinx,DPS Marksman,Anivia,Poke,Ambessa,Bruiser AD,Zilean,Utility Support,Sylas,Bruiser AP,Nautilus,CC Tank,Alistar,CC Tank,Twitch,DPS Marksman,0
+KR_7631406821,Teemo,Poke,Ezreal,Poke,Alistar,CC Tank,Xayah,DPS Marksman,Annie,Burst,Neeko,Burst,Malphite,Sustain Tank,Caitlyn,Poke,Darius,Bruiser AD,Sivir,DPS Marksman,1
+KR_7631222496,Teemo,Poke,Talon,Assassin AD,Lulu,Utility Support,Shen,Sustain Tank,Shaco,Assassin AD,Ezreal,Poke,Twitch,DPS Marksman,Tryndamere,Bruiser AD,Akali,Burst,Jinx,DPS Marksman,0
+KR_7639293244,Jinx,DPS Marksman,Morgana,Poke,Ashe,Poke,Malphite,Sustain Tank,Zoe,Poke,Blitzcrank,CC Tank,Akali,Burst,Veigar,Burst,Varus,Poke,Lux,Poke,0
+KR_7637956706,Ahri,Burst,Viktor,Poke,Malzahar,Poke,Anivia,Poke,Nocturne,Assassin AD,Renekton,Bruiser AD,Senna,DPS Marksman,Gwen,Bruiser AP,Galio,CC Tank,Graves,Poke,0
+KR_7636773811,Camille,Bruiser AD,Nidalee,Poke,Akali,Burst,Tristana,DPS Marksman,Smolder,Poke,Yasuo,Bruiser AD,Katarina,Burst,Ahri,Burst,Ashe,Poke,Veigar,Burst,1
+KR_7636712808,Ahri,Burst,Seraphine,Utility Support,Aurora,Poke,Teemo,Poke,Bard,Utility Support,Ezreal,Poke,Zac,CC Tank,Malphite,Sustain Tank,Samira,DPS Marksman,Orianna,Burst,0
+KR_7613125252,Samira,DPS Marksman,Zilean,Utility Support,Corki,Poke,Thresh,Utility Support,Ziggs,Poke,Zoe,Poke,Graves,Poke,Ryze,Bruiser AD,Volibear,Sustain Tank,Trundle,Bruiser AD,1
+KR_7634564371,Nocturne,Assassin AD,Neeko,Burst,Smolder,Poke,Morgana,Poke,Soraka,Utility Support,Kindred,DPS Marksman,Ryze,Bruiser AD,Pantheon,Bruiser AD,Darius,Bruiser AD,Rakan,Utility Support,1
+KR_7633061290,Veigar,Burst,Sett,Bruiser AD,Caitlyn,Poke,Xayah,DPS Marksman,Sejuani,CC Tank,Lissandra,Burst,Malphite,Sustain Tank,Yone,Bruiser AD,Ziggs,Poke,Lucian,DPS Marksman,0
+KR_7632582039,Yone,Bruiser AD,Ashe,Poke,Fiora,Bruiser AD,Mordekaiser,Bruiser AP,Kalista,DPS Marksman,Samira,DPS Marksman,Ahri,Burst,Zyra,Poke,Skarner,CC Tank,Ezreal,Poke,1
+KR_7632320412,Smolder,Poke,Naafiri,Assassin AD,Tristana,DPS Marksman,Jinx,DPS Marksman,Malphite,Sustain Tank,Samira,DPS Marksman,Nidalee,Poke,Gragas,Sustain Mage,Lux,Poke,Ezreal,Poke,1
+KR_7630780345,Twitch,DPS Marksman,Pyke,Assassin AD,Mordekaiser,Bruiser AP,Pantheon,Bruiser AD,Karma,Utility Support,Ezreal,Poke,Neeko,Burst,Hwei,Poke,Diana,Burst,Alistar,CC Tank,0
+KR_7628015180,Ashe,Poke,Xerath,Poke,Darius,Bruiser AD,Brand,Burst,Rakan,Utility Support,Shaco,Assassin AD,Kalista,DPS Marksman,Janna,Utility Support,Ziggs,Poke,Seraphine,Utility Support,0
+KR_7621728802,Twitch,DPS Marksman,Blitzcrank,CC Tank,Sona,Utility Support,Kayle,Bruiser AD,Skarner,CC Tank,Veigar,Burst,Kassadin,Burst,Caitlyn,Poke,Graves,Poke,Pyke,Assassin AD,1
+KR_7625373455,Seraphine,Utility Support,Kindred,DPS Marksman,Vex,Burst,Ziggs,Poke,Jinx,DPS Marksman,Quinn,Poke,Zilean,Utility Support,Hwei,Poke,Senna,DPS Marksman,Tristana,DPS Marksman,1
+KR_7621613733,Vladimir,Sustain Mage,Gnar,Bruiser AD,Bard,Utility Support,Katarina,Burst,Rakan,Utility Support,Caitlyn,Poke,Galio,CC Tank,Kennen,Burst,Tristana,DPS Marksman,Maokai,CC Tank,0
+KR_7624607465,Aphelios,DPS Marksman,Sylas,Bruiser AP,Leona,CC Tank,Xerath,Poke,Amumu,CC Tank,Malzahar,Poke,Volibear,Sustain Tank,Samira,DPS Marksman,Ziggs,Poke,Anivia,Poke,1
+KR_7639538385,Brand,Burst,Gwen,Bruiser AP,Katarina,Burst,Karma,Utility Support,Twitch,DPS Marksman,Varus,Poke,Neeko,Burst,Heimerdinger,Poke,Zac,CC Tank,Zeri,DPS Marksman,1
+KR_7637587343,Zyra,Poke,Veigar,Burst,Bard,Utility Support,Sejuani,CC Tank,Twitch,DPS Marksman,Zeri,DPS Marksman,Azir,Poke,Gnar,Bruiser AD,Shaco,Assassin AD,Sylas,Bruiser AP,1
+KR_7637501616,Sett,Bruiser AD,Zed,Assassin AD,Ashe,Poke,Aurora,Poke,Thresh,Utility Support,Ziggs,Poke,Akshan,Assassin AD,Lucian,DPS Marksman,Graves,Poke,Karma,Utility Support,1
+KR_7630818593,Ahri,Burst,Ziggs,Poke,Blitzcrank,CC Tank,Zilean,Utility Support,Jinx,DPS Marksman,Sivir,DPS Marksman,Kayn,Assassin AD,Seraphine,Utility Support,Xayah,DPS Marksman,Cassiopeia,Sustain Mage,1
+KR_7626078334,Darius,Bruiser AD,Jhin,Poke,Fizz,Burst,Lucian,DPS Marksman,Rumble,Sustain Mage,Nasus,Bruiser AD,Gnar,Bruiser AD,Samira,DPS Marksman,Xerath,Poke,Zilean,Utility Support,0
+KR_7572994018,Ekko,Burst,Kennen,Burst,Tryndamere,Bruiser AD,Diana,Burst,Corki,Poke,Twitch,DPS Marksman,Maokai,CC Tank,Kled,Bruiser AD,Zilean,Utility Support,Milio,Utility Support,0
+KR_7637452921,Zeri,DPS Marksman,Riven,Bruiser AD,Blitzcrank,CC Tank,Lux,Poke,Kennen,Burst,Tristana,DPS Marksman,Ahri,Burst,Jax,Bruiser AD,Aphelios,DPS Marksman,Viktor,Poke,1
+KR_7629551748,Vladimir,Sustain Mage,Sett,Bruiser AD,Gangplank,Poke,Ornn,Sustain Tank,Kayle,Bruiser AD,Fizz,Burst,Karthus,Burst,Jinx,DPS Marksman,Neeko,Burst,Twitch,DPS Marksman,1
+KR_7637907235,Riven,Bruiser AD,Hwei,Poke,Gragas,Sustain Mage,Singed,Sustain Tank,Viktor,Poke,Akali,Burst,Senna,DPS Marksman,Yone,Bruiser AD,Jhin,Poke,Irelia,Bruiser AD,1
+KR_7636392864,Jinx,DPS Marksman,Smolder,Poke,Yasuo,Bruiser AD,Ziggs,Poke,Viego,Bruiser AD,Kennen,Burst,Tristana,DPS Marksman,Ahri,Burst,Rumble,Sustain Mage,Ashe,Poke,1
+KR_7635851242,Galio,CC Tank,Anivia,Poke,Shaco,Assassin AD,Kayle,Bruiser AD,Lissandra,Burst,Varus,Poke,Lucian,DPS Marksman,Sylas,Bruiser AP,Lux,Poke,Senna,DPS Marksman,1
+KR_7637460751,Malzahar,Poke,Sona,Utility Support,Sion,Sustain Tank,Rengar,Assassin AD,Akali,Burst,Pantheon,Bruiser AD,Samira,DPS Marksman,Aatrox,Bruiser AD,Jinx,DPS Marksman,Thresh,Utility Support,0
+KR_7620241477,Fizz,Burst,Karma,Utility Support,Aphelios,DPS Marksman,Lux,Poke,Taric,Utility Support,Ashe,Poke,Ziggs,Poke,Sylas,Bruiser AP,Katarina,Burst,Riven,Bruiser AD,1
+KR_7363087079,Galio,CC Tank,Sivir,DPS Marksman,Ziggs,Poke,Sylas,Bruiser AP,Nidalee,Poke,Jinx,DPS Marksman,Camille,Bruiser AD,Jayce,Poke,Gangplank,Poke,Irelia,Bruiser AD,1
+KR_7340634128,Zed,Assassin AD,Lux,Poke,Senna,DPS Marksman,Zac,CC Tank,Riven,Bruiser AD,Irelia,Bruiser AD,Malphite,Sustain Tank,Jinx,DPS Marksman,Maokai,CC Tank,Sona,Utility Support,0
+KR_7637432855,Twitch,DPS Marksman,Ornn,Sustain Tank,Ashe,Poke,Ivern,Utility Support,Annie,Burst,Hwei,Poke,Soraka,Utility Support,Garen,Bruiser AD,Blitzcrank,CC Tank,Hecarim,Bruiser AD,0
+KR_7636778662,Yone,Bruiser AD,Nami,Utility Support,Jhin,Poke,Veigar,Burst,Thresh,Utility Support,Gwen,Bruiser AP,Pantheon,Bruiser AD,Yuumi,Utility Support,Gragas,Sustain Mage,Irelia,Bruiser AD,1
+KR_7636679619,Aphelios,DPS Marksman,Jinx,DPS Marksman,Vladimir,Sustain Mage,Leona,CC Tank,Pyke,Assassin AD,Quinn,Poke,Malphite,Sustain Tank,Blitzcrank,CC Tank,Trundle,Bruiser AD,Malzahar,Poke,0
+KR_7636647169,Janna,Utility Support,Gragas,Sustain Mage,Rell,CC Tank,Naafiri,Assassin AD,Tristana,DPS Marksman,Ryze,Bruiser AD,Yuumi,Utility Support,Katarina,Burst,Vayne,DPS Marksman,Ezreal,Poke,1
+KR_7636583301,Viego,Bruiser AD,Jhin,Poke,Vi,Bruiser AD,Sion,Sustain Tank,Annie,Burst,Pantheon,Bruiser AD,Xerath,Poke,Lux,Poke,Varus,Poke,Akali,Burst,1
+KR_7637582165,Jhin,Poke,Vladimir,Sustain Mage,Braum,CC Tank,Kayn,Assassin AD,Gnar,Bruiser AD,Ornn,Sustain Tank,Varus,Poke,Xerath,Poke,Yuumi,Utility Support,Kassadin,Burst,1
+KR_7637441122,Garen,Bruiser AD,Vayne,DPS Marksman,Lucian,DPS Marksman,Seraphine,Utility Support,Nasus,Bruiser AD,Jayce,Poke,Darius,Bruiser AD,Varus,Poke,Lux,Poke,Pyke,Assassin AD,1
+KR_7636840641,Veigar,Burst,Tristana,DPS Marksman,Nidalee,Poke,Lucian,DPS Marksman,Yuumi,Utility Support,Sivir,DPS Marksman,Kalista,DPS Marksman,Amumu,CC Tank,Aatrox,Bruiser AD,Pyke,Assassin AD,1
+KR_7634334463,Kennen,Burst,Kayle,Bruiser AD,Neeko,Burst,Lux,Poke,Samira,DPS Marksman,Milio,Utility Support,Jayce,Poke,Corki,Poke,Braum,CC Tank,Jinx,DPS Marksman,0
+KR_7607621434,Lucian,DPS Marksman,Brand,Burst,Aphelios,DPS Marksman,Annie,Burst,Darius,Bruiser AD,Sivir,DPS Marksman,Ashe,Poke,Amumu,CC Tank,Yuumi,Utility Support,Nidalee,Poke,0
+KR_7605835896,Yorick,Sustain Tank,Shaco,Assassin AD,Akali,Burst,Lucian,DPS Marksman,Corki,Poke,Lissandra,Burst,Ahri,Burst,Caitlyn,Poke,Zoe,Poke,Senna,DPS Marksman,0
+KR_7604864064,Amumu,CC Tank,Ashe,Poke,Thresh,Utility Support,Ekko,Burst,Varus,Poke,Vex,Burst,Fizz,Burst,Nautilus,CC Tank,Xayah,DPS Marksman,Zilean,Utility Support,1
+KR_7545392553,Yone,Bruiser AD,Seraphine,Utility Support,Corki,Poke,Karthus,Burst,Mordekaiser,Bruiser AP,Viktor,Poke,Poppy,CC Tank,Pantheon,Bruiser AD,Teemo,Poke,Gangplank,Poke,0
+KR_7639504956,Zyra,Poke,Viego,Bruiser AD,Senna,DPS Marksman,Naafiri,Assassin AD,Yasuo,Bruiser AD,Kennen,Burst,Garen,Bruiser AD,Blitzcrank,CC Tank,Sylas,Bruiser AP,Tristana,DPS Marksman,1
+KR_7639267377,Ziggs,Poke,Vladimir,Sustain Mage,Warwick,Bruiser AD,Seraphine,Utility Support,Tristana,DPS Marksman,Teemo,Poke,Naafiri,Assassin AD,Taliyah,Poke,Veigar,Burst,Ekko,Burst,1
+KR_7637444328,Ornn,Sustain Tank,Rell,CC Tank,Aphelios,DPS Marksman,Viego,Bruiser AD,Diana,Burst,Twitch,DPS Marksman,Morgana,Poke,Kayle,Bruiser AD,Braum,CC Tank,Senna,DPS Marksman,1
+KR_7637365968,Tryndamere,Bruiser AD,Tristana,DPS Marksman,Yone,Bruiser AD,Smolder,Poke,Draven,DPS Marksman,Samira,DPS Marksman,Yuumi,Utility Support,Lillia,Sustain Mage,Darius,Bruiser AD,Trundle,Bruiser AD,0
+KR_7634811711,Ivern,Utility Support,Jax,Bruiser AD,Galio,CC Tank,Pyke,Assassin AD,Akali,Burst,Ashe,Poke,Cassiopeia,Sustain Mage,Zeri,DPS Marksman,Jhin,Poke,Garen,Bruiser AD,0
+KR_7637602540,Sylas,Bruiser AP,Nocturne,Assassin AD,Shen,Sustain Tank,Leona,CC Tank,Twitch,DPS Marksman,Pyke,Assassin AD,Vayne,DPS Marksman,Graves,Poke,Ashe,Poke,Xerath,Poke,0
+KR_7637578241,Twitch,DPS Marksman,Vex,Burst,Yasuo,Bruiser AD,Vi,Bruiser AD,Jayce,Poke,Veigar,Burst,Sivir,DPS Marksman,Ahri,Burst,Pantheon,Bruiser AD,Orianna,Burst,1
+KR_7637349036,Xerath,Poke,Pantheon,Bruiser AD,Jhin,Poke,Skarner,CC Tank,Vayne,DPS Marksman,Irelia,Bruiser AD,Caitlyn,Poke,Lillia,Sustain Mage,Senna,DPS Marksman,Samira,DPS Marksman,1
+KR_7489396945,Riven,Bruiser AD,Pyke,Assassin AD,Diana,Burst,Alistar,CC Tank,Kayle,Bruiser AD,Lulu,Utility Support,Jayce,Poke,Xerath,Poke,Shaco,Assassin AD,Sylas,Bruiser AP,1
+KR_7489320883,Garen,Bruiser AD,Alistar,CC Tank,Malphite,Sustain Tank,Teemo,Poke,Anivia,Poke,Ezreal,Poke,Milio,Utility Support,Viego,Bruiser AD,Xayah,DPS Marksman,Rakan,Utility Support,1
+KR_7489275987,Morgana,Poke,Alistar,CC Tank,Smolder,Poke,Ahri,Burst,Vladimir,Sustain Mage,Jhin,Poke,Twitch,DPS Marksman,Amumu,CC Tank,Xayah,DPS Marksman,Pantheon,Bruiser AD,1
+KR_7636990356,Ekko,Burst,Vi,Bruiser AD,Maokai,CC Tank,Nocturne,Assassin AD,Rakan,Utility Support,Varus,Poke,Quinn,Poke,Cassiopeia,Sustain Mage,Caitlyn,Poke,Brand,Burst,1
+KR_7636952900,Xerath,Poke,Kalista,DPS Marksman,Ashe,Poke,Sejuani,CC Tank,Thresh,Utility Support,Sivir,DPS Marksman,Hwei,Poke,Singed,Sustain Tank,Sona,Utility Support,Shaco,Assassin AD,0
+KR_7636951565,Blitzcrank,CC Tank,Aurora,Poke,Jinx,DPS Marksman,Varus,Poke,Sona,Utility Support,Teemo,Poke,Lux,Poke,Galio,CC Tank,Morgana,Poke,Fizz,Burst,0
+KR_7639017174,Lillia,Sustain Mage,Kindred,DPS Marksman,Vex,Burst,Pyke,Assassin AD,Seraphine,Utility Support,Jayce,Poke,Annie,Burst,Fiora,Bruiser AD,Sivir,DPS Marksman,Lux,Poke,1
+KR_7638060823,Garen,Bruiser AD,Lissandra,Burst,Kalista,DPS Marksman,Vi,Bruiser AD,Orianna,Burst,Jayce,Poke,Akali,Burst,Neeko,Burst,Smolder,Poke,Jhin,Poke,0
+KR_7637759974,Viktor,Poke,Tristana,DPS Marksman,Lillia,Sustain Mage,Xayah,DPS Marksman,Seraphine,Utility Support,Skarner,CC Tank,Rell,CC Tank,Yasuo,Bruiser AD,Shyvana,Bruiser AD,Illaoi,Bruiser AD,1
+KR_7639559140,Singed,Sustain Tank,Graves,Poke,Vex,Burst,Cassiopeia,Sustain Mage,Tristana,DPS Marksman,Katarina,Burst,Poppy,CC Tank,Ornn,Sustain Tank,Gragas,Sustain Mage,Sivir,DPS Marksman,0
+KR_7623366544,Leona,CC Tank,Yuumi,Utility Support,Tristana,DPS Marksman,Viego,Bruiser AD,Hwei,Poke,Teemo,Poke,Ziggs,Poke,Galio,CC Tank,Fizz,Burst,Viktor,Poke,1
+KR_7623313994,Vladimir,Sustain Mage,Caitlyn,Poke,Fiora,Bruiser AD,Xayah,DPS Marksman,Aurora,Poke,Soraka,Utility Support,Jinx,DPS Marksman,Ekko,Burst,Yasuo,Bruiser AD,Lulu,Utility Support,0
+KR_7620386244,Zilean,Utility Support,Ashe,Poke,Qiyana,Assassin AD,Senna,DPS Marksman,Ekko,Burst,Udyr,Bruiser AD,Bard,Utility Support,Tristana,DPS Marksman,Lillia,Sustain Mage,Anivia,Poke,1
+KR_7538190593,Sion,Sustain Tank,Taric,Utility Support,Vayne,DPS Marksman,Teemo,Poke,Sona,Utility Support,Ezreal,Poke,Janna,Utility Support,Renekton,Bruiser AD,Kennen,Burst,Irelia,Bruiser AD,1
+KR_7537941068,Sylas,Bruiser AP,Irelia,Bruiser AD,Malphite,Sustain Tank,Pantheon,Bruiser AD,Ryze,Bruiser AD,Xerath,Poke,Maokai,CC Tank,Samira,DPS Marksman,Kassadin,Burst,Ahri,Burst,0
+KR_7629527071,Amumu,CC Tank,Shen,Sustain Tank,Varus,Poke,Brand,Burst,Kennen,Burst,Vayne,DPS Marksman,Ornn,Sustain Tank,Twitch,DPS Marksman,Fizz,Burst,Veigar,Burst,1
+KR_7620335917,Fizz,Burst,Tristana,DPS Marksman,Aatrox,Bruiser AD,Ivern,Utility Support,Ahri,Burst,Viktor,Poke,Soraka,Utility Support,Mordekaiser,Bruiser AP,Senna,DPS Marksman,Taliyah,Poke,0
+KR_7613303675,Ryze,Bruiser AD,Ziggs,Poke,Hwei,Poke,Milio,Utility Support,Graves,Poke,Qiyana,Assassin AD,Viego,Bruiser AD,Varus,Poke,Shen,Sustain Tank,Katarina,Burst,1
+KR_7613144515,Vayne,DPS Marksman,Hwei,Poke,Viktor,Poke,Jinx,DPS Marksman,Ashe,Poke,Jax,Bruiser AD,Nautilus,CC Tank,Samira,DPS Marksman,Fiora,Bruiser AD,Naafiri,Assassin AD,1
+KR_7636645059,Bard,Utility Support,Caitlyn,Poke,Lux,Poke,Diana,Burst,Blitzcrank,CC Tank,Soraka,Utility Support,Lucian,DPS Marksman,Ahri,Burst,Jayce,Poke,Vladimir,Sustain Mage,0
+KR_7582496433,Ashe,Poke,Urgot,Bruiser AD,Yasuo,Bruiser AD,Malphite,Sustain Tank,Vex,Burst,Talon,Assassin AD,Senna,DPS Marksman,Thresh,Utility Support,Swain,Sustain Mage,Zac,CC Tank,1
+KR_7568700248,Rumble,Sustain Mage,Ziggs,Poke,Swain,Sustain Mage,Malphite,Sustain Tank,Corki,Poke,Ekko,Burst,Vex,Burst,Nami,Utility Support,Nidalee,Poke,Diana,Burst,1
+KR_7568550295,Graves,Poke,Lulu,Utility Support,Ornn,Sustain Tank,Janna,Utility Support,Blitzcrank,CC Tank,Zilean,Utility Support,Ezreal,Poke,Sivir,DPS Marksman,Draven,DPS Marksman,Rumble,Sustain Mage,0
+KR_7618550788,Shaco,Assassin AD,Pantheon,Bruiser AD,Graves,Poke,Xerath,Poke,Mordekaiser,Bruiser AP,Quinn,Poke,Aurora,Poke,Galio,CC Tank,Karma,Utility Support,Lissandra,Burst,1
+KR_7611427525,Tristana,DPS Marksman,Vladimir,Sustain Mage,Ahri,Burst,Hwei,Poke,Twitch,DPS Marksman,Nidalee,Poke,Braum,CC Tank,Jinx,DPS Marksman,Sylas,Bruiser AP,Senna,DPS Marksman,0
+KR_7638380190,Teemo,Poke,Sona,Utility Support,Twitch,DPS Marksman,Nautilus,CC Tank,Xerath,Poke,Ryze,Bruiser AD,Draven,DPS Marksman,Pyke,Assassin AD,Diana,Burst,Qiyana,Assassin AD,1
+KR_7618179877,Bard,Utility Support,Illaoi,Bruiser AD,Poppy,CC Tank,Thresh,Utility Support,Brand,Burst,Lillia,Sustain Mage,Pantheon,Bruiser AD,Skarner,CC Tank,Kled,Bruiser AD,Jayce,Poke,1
+KR_7611099247,Kennen,Burst,Ahri,Burst,Anivia,Poke,Illaoi,Bruiser AD,Caitlyn,Poke,Cassiopeia,Sustain Mage,Smolder,Poke,Lucian,DPS Marksman,Ekko,Burst,Lulu,Utility Support,1
+KR_7630016404,Kayle,Bruiser AD,Karthus,Burst,Yone,Bruiser AD,Riven,Bruiser AD,Shen,Sustain Tank,Irelia,Bruiser AD,Braum,CC Tank,Ashe,Poke,Twitch,DPS Marksman,Gwen,Bruiser AP,1
+KR_7626206475,Aurora,Poke,Neeko,Burst,Jayce,Poke,Aphelios,DPS Marksman,Volibear,Sustain Tank,Jax,Bruiser AD,Darius,Bruiser AD,Ekko,Burst,Ezreal,Poke,Sivir,DPS Marksman,1
+KR_7592554031,Nilah,DPS Marksman,Teemo,Poke,Jayce,Poke,Zyra,Poke,Shaco,Assassin AD,Hwei,Poke,Kassadin,Burst,Aatrox,Bruiser AD,Zed,Assassin AD,Ezreal,Poke,1
+KR_7540923934,Jax,Bruiser AD,Morgana,Poke,Sylas,Bruiser AP,Garen,Bruiser AD,Yone,Bruiser AD,Ashe,Poke,Aurora,Poke,Taric,Utility Support,Xayah,DPS Marksman,Lissandra,Burst,0
+KR_7495344253,Kalista,DPS Marksman,Garen,Bruiser AD,Quinn,Poke,Shen,Sustain Tank,Naafiri,Assassin AD,Lillia,Sustain Mage,Mordekaiser,Bruiser AP,Nautilus,CC Tank,Vladimir,Sustain Mage,Leona,CC Tank,1
+KR_7639545074,Fizz,Burst,Zyra,Poke,Seraphine,Utility Support,Aphelios,DPS Marksman,Bard,Utility Support,Darius,Bruiser AD,Taliyah,Poke,Urgot,Bruiser AD,Jhin,Poke,Talon,Assassin AD,1
+KR_7639214499,Rell,CC Tank,Xerath,Poke,Vi,Bruiser AD,Thresh,Utility Support,Ekko,Burst,Trundle,Bruiser AD,Morgana,Poke,Vayne,DPS Marksman,Fiora,Bruiser AD,Taliyah,Poke,0
+KR_7638992773,Malphite,Sustain Tank,Sylas,Bruiser AP,Swain,Sustain Mage,Riven,Bruiser AD,Senna,DPS Marksman,Sion,Sustain Tank,Veigar,Burst,Hecarim,Bruiser AD,Aatrox,Bruiser AD,Kennen,Burst,1
+KR_7638483010,Naafiri,Assassin AD,Rumble,Sustain Mage,Garen,Bruiser AD,Lulu,Utility Support,Sylas,Bruiser AP,Malphite,Sustain Tank,Xerath,Poke,Caitlyn,Poke,Janna,Utility Support,Shen,Sustain Tank,0
+KR_7638442263,Tryndamere,Bruiser AD,Gwen,Bruiser AP,Nidalee,Poke,Jinx,DPS Marksman,Darius,Bruiser AD,Galio,CC Tank,Hwei,Poke,Annie,Burst,Malphite,Sustain Tank,Jhin,Poke,0
+KR_7639558684,Anivia,Poke,Orianna,Burst,Lux,Poke,Zeri,DPS Marksman,Braum,CC Tank,Jinx,DPS Marksman,Rell,CC Tank,Morgana,Poke,Bard,Utility Support,Yone,Bruiser AD,0
+KR_7639089711,Tryndamere,Bruiser AD,Zeri,DPS Marksman,Karma,Utility Support,Morgana,Poke,Sivir,DPS Marksman,Lux,Poke,Caitlyn,Poke,Zed,Assassin AD,Garen,Bruiser AD,Annie,Burst,0
+KR_7635006236,Taliyah,Poke,Kalista,DPS Marksman,Braum,CC Tank,Irelia,Bruiser AD,Azir,Poke,Sivir,DPS Marksman,Ornn,Sustain Tank,Rumble,Sustain Mage,Garen,Bruiser AD,Thresh,Utility Support,0
+KR_7634955595,Taliyah,Poke,Viego,Bruiser AD,Vex,Burst,Zeri,DPS Marksman,Nautilus,CC Tank,Yone,Bruiser AD,Twitch,DPS Marksman,Kennen,Burst,Xerath,Poke,Garen,Bruiser AD,0
+KR_7639439406,Renekton,Bruiser AD,Azir,Poke,Ornn,Sustain Tank,Annie,Burst,Talon,Assassin AD,Yone,Bruiser AD,Heimerdinger,Poke,Gangplank,Poke,Teemo,Poke,Zed,Assassin AD,0
+KR_7639128715,Shyvana,Bruiser AD,Yasuo,Bruiser AD,Ahri,Burst,Malphite,Sustain Tank,Kennen,Burst,Varus,Poke,Ashe,Poke,Thresh,Utility Support,Veigar,Burst,Blitzcrank,CC Tank,0
+KR_7639061426,Varus,Poke,Azir,Poke,Aphelios,DPS Marksman,Thresh,Utility Support,Gragas,Sustain Mage,Mordekaiser,Bruiser AP,Annie,Burst,Vayne,DPS Marksman,Ezreal,Poke,Zoe,Poke,0
+KR_7639546929,Twitch,DPS Marksman,Smolder,Poke,Samira,DPS Marksman,Lillia,Sustain Mage,Brand,Burst,Zoe,Poke,Heimerdinger,Poke,Viego,Bruiser AD,Xerath,Poke,Bard,Utility Support,0
+KR_7639531474,Lissandra,Burst,Gnar,Bruiser AD,Varus,Poke,Teemo,Poke,Sion,Sustain Tank,Ezreal,Poke,Mordekaiser,Bruiser AP,Vayne,DPS Marksman,Sett,Bruiser AD,Morgana,Poke,0
+KR_7639092791,Yone,Bruiser AD,Janna,Utility Support,Anivia,Poke,Trundle,Bruiser AD,Morgana,Poke,Annie,Burst,Senna,DPS Marksman,Rammus,CC Tank,Thresh,Utility Support,Sona,Utility Support,1
+KR_7636666881,Viktor,Poke,Veigar,Burst,Volibear,Sustain Tank,Graves,Poke,Ashe,Poke,Shen,Sustain Tank,Jhin,Poke,Poppy,CC Tank,Shyvana,Bruiser AD,Pantheon,Bruiser AD,0
+KR_7637700560,Draven,DPS Marksman,Malzahar,Poke,Pyke,Assassin AD,Akali,Burst,Thresh,Utility Support,Viego,Bruiser AD,Lissandra,Burst,Aatrox,Bruiser AD,Brand,Burst,Ahri,Burst,1
+KR_7636618386,Varus,Poke,Taliyah,Poke,Ahri,Burst,Pantheon,Bruiser AD,Twitch,DPS Marksman,Diana,Burst,Hecarim,Bruiser AD,Talon,Assassin AD,Viktor,Poke,Neeko,Burst,1
+KR_7636555516,Vayne,DPS Marksman,Lux,Poke,Pyke,Assassin AD,Lillia,Sustain Mage,Milio,Utility Support,Darius,Bruiser AD,Zoe,Poke,Karma,Utility Support,Tristana,DPS Marksman,Neeko,Burst,1
+KR_7639388598,Sivir,DPS Marksman,Thresh,Utility Support,Hwei,Poke,Zoe,Poke,Darius,Bruiser AD,Lux,Poke,Aphelios,DPS Marksman,Katarina,Burst,Talon,Assassin AD,Aatrox,Bruiser AD,1
+KR_7639397323,Swain,Sustain Mage,Diana,Burst,Jinx,DPS Marksman,Annie,Burst,Milio,Utility Support,Taliyah,Poke,Zeri,DPS Marksman,Nami,Utility Support,Thresh,Utility Support,Corki,Poke,1
+KR_7638396935,Thresh,Utility Support,Milio,Utility Support,Jinx,DPS Marksman,Darius,Bruiser AD,Ashe,Poke,Karthus,Burst,Aurora,Poke,Jayce,Poke,Aatrox,Bruiser AD,Gwen,Bruiser AP,1
+KR_7638146975,Ezreal,Poke,Annie,Burst,Maokai,CC Tank,Sylas,Bruiser AP,Ahri,Burst,Twitch,DPS Marksman,Kayle,Bruiser AD,Alistar,CC Tank,Ambessa,Bruiser AD,Sion,Sustain Tank,1
+KR_7635530901,Malphite,Sustain Tank,Yone,Bruiser AD,Twitch,DPS Marksman,Bard,Utility Support,Draven,DPS Marksman,Trundle,Bruiser AD,Hwei,Poke,Jinx,DPS Marksman,Kayle,Bruiser AD,Gangplank,Poke,0
+KR_7639334038,Graves,Poke,Kennen,Burst,Zyra,Poke,Zed,Assassin AD,Lissandra,Burst,Taliyah,Poke,Zoe,Poke,Aurora,Poke,Lulu,Utility Support,Yone,Bruiser AD,1
+KR_7639520531,Samira,DPS Marksman,Jayce,Poke,Viktor,Poke,Singed,Sustain Tank,Heimerdinger,Poke,Corki,Poke,Yasuo,Bruiser AD,Janna,Utility Support,Maokai,CC Tank,Caitlyn,Poke,1
+KR_7639135383,Darius,Bruiser AD,Kennen,Burst,Kalista,DPS Marksman,Xerath,Poke,Rakan,Utility Support,Gwen,Bruiser AP,Gangplank,Poke,Gragas,Sustain Mage,Xayah,DPS Marksman,Sylas,Bruiser AP,1
+KR_7639117739,Azir,Poke,Zoe,Poke,Brand,Burst,Zac,CC Tank,Veigar,Burst,Kayle,Bruiser AD,Morgana,Poke,Sett,Bruiser AD,Hecarim,Bruiser AD,Corki,Poke,0
+KR_7639393549,Diana,Burst,Tristana,DPS Marksman,Irelia,Bruiser AD,Ryze,Bruiser AD,Taliyah,Poke,Graves,Poke,Renekton,Bruiser AD,Jinx,DPS Marksman,Brand,Burst,Lillia,Sustain Mage,1
+KR_7639089575,Jax,Bruiser AD,Neeko,Burst,Yone,Bruiser AD,Jinx,DPS Marksman,Udyr,Bruiser AD,Rell,CC Tank,Galio,CC Tank,Caitlyn,Poke,Gwen,Bruiser AP,Varus,Poke,1
+KR_7638488317,Lulu,Utility Support,Veigar,Burst,Shaco,Assassin AD,Caitlyn,Poke,Varus,Poke,Viktor,Poke,Gangplank,Poke,Yuumi,Utility Support,Sivir,DPS Marksman,Cassiopeia,Sustain Mage,0
+KR_7639430502,Teemo,Poke,Jinx,DPS Marksman,Zilean,Utility Support,Anivia,Poke,Naafiri,Assassin AD,Gnar,Bruiser AD,Lillia,Sustain Mage,Morgana,Poke,Kayle,Bruiser AD,Viktor,Poke,1
+KR_7638483168,Nidalee,Poke,Brand,Burst,Jhin,Poke,Shen,Sustain Tank,Senna,DPS Marksman,Lucian,DPS Marksman,Yone,Bruiser AD,Ziggs,Poke,Quinn,Poke,Akali,Burst,1
+KR_7639547461,Nidalee,Poke,Lucian,DPS Marksman,Kayle,Bruiser AD,Ekko,Burst,Thresh,Utility Support,Ahri,Burst,Janna,Utility Support,Morgana,Poke,Vladimir,Sustain Mage,Vayne,DPS Marksman,0
+KR_7638533919,Karma,Utility Support,Milio,Utility Support,Tristana,DPS Marksman,Viktor,Poke,Maokai,CC Tank,Xerath,Poke,Kennen,Burst,Nautilus,CC Tank,Varus,Poke,Katarina,Burst,0
+KR_7639570416,Ekko,Burst,Ezreal,Poke,Ivern,Utility Support,Twitch,DPS Marksman,Ashe,Poke,Katarina,Burst,Udyr,Bruiser AD,Vi,Bruiser AD,Morgana,Poke,Riven,Bruiser AD,0
+KR_7638487390,Swain,Sustain Mage,Akshan,Assassin AD,Taliyah,Poke,Aatrox,Bruiser AD,Ahri,Burst,Veigar,Burst,Brand,Burst,Shen,Sustain Tank,Rumble,Sustain Mage,Draven,DPS Marksman,1
+KR_7638486901,Jax,Bruiser AD,Zac,CC Tank,Sett,Bruiser AD,Naafiri,Assassin AD,Camille,Bruiser AD,Rengar,Assassin AD,Azir,Poke,Xerath,Poke,Corki,Poke,Gragas,Sustain Mage,1
+KR_7639090142,Kindred,DPS Marksman,Lulu,Utility Support,Janna,Utility Support,Viego,Bruiser AD,Nautilus,CC Tank,Caitlyn,Poke,Zilean,Utility Support,Blitzcrank,CC Tank,Zoe,Poke,Brand,Burst,0
+KR_7639566824,Lulu,Utility Support,Sejuani,CC Tank,Vi,Bruiser AD,Caitlyn,Poke,Orianna,Burst,Yorick,Sustain Tank,Janna,Utility Support,Elise,Burst,Urgot,Bruiser AD,Sett,Bruiser AD,0
+KR_7638422898,Lillia,Sustain Mage,Qiyana,Assassin AD,Viktor,Poke,Zed,Assassin AD,Aphelios,DPS Marksman,Smolder,Poke,Kennen,Burst,Sejuani,CC Tank,Karma,Utility Support,Camille,Bruiser AD,0
+KR_7639560184,Ornn,Sustain Tank,Swain,Sustain Mage,Illaoi,Bruiser AD,Aurora,Poke,Jhin,Poke,Tristana,DPS Marksman,Lux,Poke,Ryze,Bruiser AD,Ashe,Poke,Teemo,Poke,0
+KR_7638016183,Rengar,Assassin AD,Ivern,Utility Support,Anivia,Poke,Karthus,Burst,Aphelios,DPS Marksman,Milio,Utility Support,Thresh,Utility Support,Mordekaiser,Bruiser AP,Xayah,DPS Marksman,Morgana,Poke,0
+KR_7638051567,Soraka,Utility Support,Shaco,Assassin AD,Rengar,Assassin AD,Twitch,DPS Marksman,Shen,Sustain Tank,Nidalee,Poke,Diana,Burst,Sivir,DPS Marksman,Sett,Bruiser AD,Zoe,Poke,1
+KR_7639437089,Shaco,Assassin AD,Jayce,Poke,Galio,CC Tank,Soraka,Utility Support,Fizz,Burst,Kayle,Bruiser AD,Yone,Bruiser AD,Ryze,Bruiser AD,Ahri,Burst,Ornn,Sustain Tank,0
+KR_7639384384,Caitlyn,Poke,Galio,CC Tank,Camille,Bruiser AD,Trundle,Bruiser AD,Azir,Poke,Kayn,Assassin AD,Seraphine,Utility Support,Swain,Sustain Mage,Anivia,Poke,Sivir,DPS Marksman,0
+KR_7639492856,Xerath,Poke,Tryndamere,Bruiser AD,Jhin,Poke,Ezreal,Poke,Draven,DPS Marksman,Galio,CC Tank,Annie,Burst,Tristana,DPS Marksman,Maokai,CC Tank,Orianna,Burst,1
+KR_7638902954,Akshan,Assassin AD,Ahri,Burst,Volibear,Sustain Tank,Ornn,Sustain Tank,Anivia,Poke,Zyra,Poke,Caitlyn,Poke,Viktor,Poke,Jax,Bruiser AD,Brand,Burst,0
+KR_7638484809,Mordekaiser,Bruiser AP,Zoe,Poke,Jhin,Poke,Braum,CC Tank,Rammus,CC Tank,Garen,Bruiser AD,Zed,Assassin AD,Aphelios,DPS Marksman,Morgana,Poke,Anivia,Poke,1
+KR_7639139021,Blitzcrank,CC Tank,Lux,Poke,Vayne,DPS Marksman,Xerath,Poke,Swain,Sustain Mage,Mordekaiser,Bruiser AP,Shaco,Assassin AD,Milio,Utility Support,Vex,Burst,Aphelios,DPS Marksman,0
+KR_7636801659,Malphite,Sustain Tank,Jayce,Poke,Azir,Poke,Zilean,Utility Support,Qiyana,Assassin AD,Tristana,DPS Marksman,Amumu,CC Tank,Corki,Poke,Elise,Burst,Darius,Bruiser AD,1
+KR_7639243249,Zac,CC Tank,Garen,Bruiser AD,Yuumi,Utility Support,Veigar,Burst,Rumble,Sustain Mage,Kennen,Burst,Teemo,Poke,Gnar,Bruiser AD,Sett,Bruiser AD,Lucian,DPS Marksman,0
+KR_7639548770,Jinx,DPS Marksman,Mordekaiser,Bruiser AP,Shen,Sustain Tank,Zed,Assassin AD,Poppy,CC Tank,Akali,Burst,Ezreal,Poke,Blitzcrank,CC Tank,Sona,Utility Support,Rumble,Sustain Mage,1
+KR_7638511530,Samira,DPS Marksman,Riven,Bruiser AD,Ryze,Bruiser AD,Akali,Burst,Kled,Bruiser AD,Lucian,DPS Marksman,Milio,Utility Support,Vex,Burst,Katarina,Burst,Jayce,Poke,0
+KR_7638509017,Yasuo,Bruiser AD,Ashe,Poke,Poppy,CC Tank,Akali,Burst,Brand,Burst,Jhin,Poke,Azir,Poke,Leona,CC Tank,Zyra,Poke,Senna,DPS Marksman,0
+KR_7638485753,Yuumi,Utility Support,Diana,Burst,Zed,Assassin AD,Kayn,Assassin AD,Thresh,Utility Support,Kennen,Burst,Ashe,Poke,Maokai,CC Tank,Jax,Bruiser AD,Lulu,Utility Support,0
+KR_7639570621,Teemo,Poke,Quinn,Poke,Draven,DPS Marksman,Kassadin,Burst,Soraka,Utility Support,Lucian,DPS Marksman,Azir,Poke,Lulu,Utility Support,Hecarim,Bruiser AD,Syndra,Burst,0
+KR_7639501497,Kalista,DPS Marksman,Janna,Utility Support,Skarner,CC Tank,Naafiri,Assassin AD,Lux,Poke,Ahri,Burst,Ziggs,Poke,Gangplank,Poke,Darius,Bruiser AD,Trundle,Bruiser AD,0
+KR_7638458197,Diana,Burst,Thresh,Utility Support,Tristana,DPS Marksman,Lillia,Sustain Mage,Shaco,Assassin AD,Zeri,DPS Marksman,Rengar,Assassin AD,Vladimir,Sustain Mage,Hwei,Poke,Amumu,CC Tank,1
+KR_7639397517,Alistar,CC Tank,Caitlyn,Poke,Braum,CC Tank,Jhin,Poke,Galio,CC Tank,Tristana,DPS Marksman,Aphelios,DPS Marksman,Viktor,Poke,Ziggs,Poke,Syndra,Burst,1
+KR_7639385085,Jinx,DPS Marksman,Orianna,Burst,Ziggs,Poke,Thresh,Utility Support,Nidalee,Poke,Anivia,Poke,Morgana,Poke,Rammus,CC Tank,Xayah,DPS Marksman,Poppy,CC Tank,1
+KR_7639349583,Renekton,Bruiser AD,Nautilus,CC Tank,Syndra,Burst,Anivia,Poke,Blitzcrank,CC Tank,Amumu,CC Tank,Lux,Poke,Sett,Bruiser AD,Veigar,Burst,Lillia,Sustain Mage,1
+KR_7639297428,Pyke,Assassin AD,Senna,DPS Marksman,Shaco,Assassin AD,Xerath,Poke,Quinn,Poke,Azir,Poke,Taliyah,Poke,Pantheon,Bruiser AD,Brand,Burst,Lux,Poke,0
+KR_7639552976,Xerath,Poke,Nidalee,Poke,Draven,DPS Marksman,Naafiri,Assassin AD,Nami,Utility Support,Olaf,Bruiser AD,Zilean,Utility Support,Ornn,Sustain Tank,Samira,DPS Marksman,Lillia,Sustain Mage,0
+KR_7638856270,Zac,CC Tank,Graves,Poke,Nasus,Bruiser AD,Renekton,Bruiser AD,Maokai,CC Tank,Draven,DPS Marksman,Aurora,Poke,Talon,Assassin AD,Ashe,Poke,Leona,CC Tank,1
+KR_7639334734,Gnar,Bruiser AD,Darius,Bruiser AD,Blitzcrank,CC Tank,Rumble,Sustain Mage,Thresh,Utility Support,Akshan,Assassin AD,Nidalee,Poke,Gragas,Sustain Mage,Nami,Utility Support,Malphite,Sustain Tank,1
+KR_7639542288,Brand,Burst,Sivir,DPS Marksman,Blitzcrank,CC Tank,Sion,Sustain Tank,Senna,DPS Marksman,Viktor,Poke,Seraphine,Utility Support,Jayce,Poke,Morgana,Poke,Karthus,Burst,0
+KR_7638437415,Vi,Bruiser AD,Kayle,Bruiser AD,Thresh,Utility Support,Lucian,DPS Marksman,Swain,Sustain Mage,Taliyah,Poke,Jayce,Poke,Morgana,Poke,Nilah,DPS Marksman,Skarner,CC Tank,0
+KR_7638417988,Ryze,Bruiser AD,Mordekaiser,Bruiser AP,Viktor,Poke,Sylas,Bruiser AP,Varus,Poke,Katarina,Burst,Senna,DPS Marksman,Ziggs,Poke,Trundle,Bruiser AD,Malphite,Sustain Tank,0
+KR_7639433936,Riven,Bruiser AD,Lucian,DPS Marksman,Gnar,Bruiser AD,Kassadin,Burst,Qiyana,Assassin AD,Jhin,Poke,Zilean,Utility Support,Karma,Utility Support,Xerath,Poke,Heimerdinger,Poke,0
+KR_7639381177,Zoe,Poke,Jayce,Poke,Talon,Assassin AD,Sylas,Bruiser AP,Rakan,Utility Support,Akali,Burst,Syndra,Burst,Morgana,Poke,Milio,Utility Support,Smolder,Poke,1
+KR_7639579212,Gragas,Sustain Mage,Swain,Sustain Mage,Naafiri,Assassin AD,Yasuo,Bruiser AD,Zeri,DPS Marksman,Neeko,Burst,Karma,Utility Support,Illaoi,Bruiser AD,Draven,DPS Marksman,Rakan,Utility Support,1
+KR_7639562590,Caitlyn,Poke,Ahri,Burst,Draven,DPS Marksman,Gangplank,Poke,Anivia,Poke,Vi,Bruiser AD,Zilean,Utility Support,Aurora,Poke,Jinx,DPS Marksman,Smolder,Poke,1
+KR_7639551715,Veigar,Burst,Seraphine,Utility Support,Senna,DPS Marksman,Ezreal,Poke,Ashe,Poke,Warwick,Bruiser AD,Caitlyn,Poke,Illaoi,Bruiser AD,Ryze,Bruiser AD,Jhin,Poke,1
+KR_7639580845,Morgana,Poke,Pyke,Assassin AD,Thresh,Utility Support,Graves,Poke,Ornn,Sustain Tank,Vi,Bruiser AD,Jinx,DPS Marksman,Garen,Bruiser AD,Katarina,Burst,Rakan,Utility Support,1
+KR_7639566891,Ryze,Bruiser AD,Twitch,DPS Marksman,Vi,Bruiser AD,Vladimir,Sustain Mage,Thresh,Utility Support,Akshan,Assassin AD,Kennen,Burst,Kled,Bruiser AD,Rengar,Assassin AD,Singed,Sustain Tank,0
+KR_7639492909,Smolder,Poke,Thresh,Utility Support,Ezreal,Poke,Viego,Bruiser AD,Taliyah,Poke,Nami,Utility Support,Corki,Poke,Lillia,Sustain Mage,Yasuo,Bruiser AD,Vex,Burst,1
+KR_7639564477,Zed,Assassin AD,Draven,DPS Marksman,Veigar,Burst,Darius,Bruiser AD,Hwei,Poke,Rumble,Sustain Mage,Teemo,Poke,Sivir,DPS Marksman,Ornn,Sustain Tank,Lux,Poke,1
+KR_7639544436,Tristana,DPS Marksman,Illaoi,Bruiser AD,Brand,Burst,Xayah,DPS Marksman,Heimerdinger,Poke,Ryze,Bruiser AD,Jhin,Poke,Sona,Utility Support,Galio,CC Tank,Nautilus,CC Tank,0
+KR_7638539552,Ambessa,Bruiser AD,Riven,Bruiser AD,Blitzcrank,CC Tank,Gragas,Sustain Mage,Twitch,DPS Marksman,Vladimir,Sustain Mage,Jayce,Poke,Renekton,Bruiser AD,Jinx,DPS Marksman,Darius,Bruiser AD,1
+KR_7639112451,Yone,Bruiser AD,Jax,Bruiser AD,Swain,Sustain Mage,Zed,Assassin AD,Maokai,CC Tank,Senna,DPS Marksman,Jhin,Poke,Ashe,Poke,Yuumi,Utility Support,Smolder,Poke,1
+KR_7638519920,Taliyah,Poke,Ziggs,Poke,Gragas,Sustain Mage,Lulu,Utility Support,Shaco,Assassin AD,Gnar,Bruiser AD,Sona,Utility Support,Hwei,Poke,Vayne,DPS Marksman,Ryze,Bruiser AD,0
+KR_7639161865,Nami,Utility Support,Lucian,DPS Marksman,Veigar,Burst,Xayah,DPS Marksman,Sett,Bruiser AD,Taliyah,Poke,Katarina,Burst,Briar,Bruiser AD,Braum,CC Tank,Amumu,CC Tank,1
+KR_7639140822,Nautilus,CC Tank,Jinx,DPS Marksman,Qiyana,Assassin AD,Sona,Utility Support,Rumble,Sustain Mage,Lissandra,Burst,Milio,Utility Support,Samira,DPS Marksman,Varus,Poke,Swain,Sustain Mage,0
+KR_7639583361,Akali,Burst,Hecarim,Bruiser AD,Shaco,Assassin AD,Briar,Bruiser AD,Tristana,DPS Marksman,Lucian,DPS Marksman,Xerath,Poke,Malphite,Sustain Tank,Ahri,Burst,Singed,Sustain Tank,1
+KR_7638488161,Caitlyn,Poke,Akali,Burst,Diana,Burst,Hwei,Poke,Leona,CC Tank,Varus,Poke,Thresh,Utility Support,Gwen,Bruiser AP,Aurora,Poke,Jax,Bruiser AD,1
+KR_7639056835,Singed,Sustain Tank,Teemo,Poke,Twitch,DPS Marksman,Caitlyn,Poke,Sett,Bruiser AD,Tristana,DPS Marksman,Aurora,Poke,Pantheon,Bruiser AD,Soraka,Utility Support,Shyvana,Bruiser AD,1
+KR_7639205248,Ziggs,Poke,Varus,Poke,Seraphine,Utility Support,Nautilus,CC Tank,Jhin,Poke,Jayce,Poke,Katarina,Burst,Yasuo,Bruiser AD,Viktor,Poke,Rumble,Sustain Mage,1
+KR_7639551650,Orianna,Burst,Viego,Bruiser AD,Viktor,Poke,Karthus,Burst,Braum,CC Tank,Blitzcrank,CC Tank,Aatrox,Bruiser AD,Tristana,DPS Marksman,Kayle,Bruiser AD,Akali,Burst,1
+KR_7639267499,Samira,DPS Marksman,Lissandra,Burst,Viego,Bruiser AD,Diana,Burst,Yasuo,Bruiser AD,Zed,Assassin AD,Zilean,Utility Support,Kalista,DPS Marksman,Garen,Bruiser AD,Sejuani,CC Tank,0
+KR_7639056023,Thresh,Utility Support,Teemo,Poke,Pantheon,Bruiser AD,Xayah,DPS Marksman,Viktor,Poke,Morgana,Poke,Ezreal,Poke,Rengar,Assassin AD,Hwei,Poke,Singed,Sustain Tank,0
+KR_7639005570,Soraka,Utility Support,Vayne,DPS Marksman,Warwick,Bruiser AD,Sylas,Bruiser AP,Irelia,Bruiser AD,Teemo,Poke,Swain,Sustain Mage,Varus,Poke,Alistar,CC Tank,Sett,Bruiser AD,0
+KR_7639346663,Smolder,Poke,Leona,CC Tank,Graves,Poke,Taliyah,Poke,Teemo,Poke,Karthus,Burst,Sylas,Bruiser AP,Sion,Sustain Tank,Quinn,Poke,Yuumi,Utility Support,1
+KR_7638971866,Talon,Assassin AD,Swain,Sustain Mage,Ashe,Poke,Pyke,Assassin AD,Sylas,Bruiser AP,Mordekaiser,Bruiser AP,Fizz,Burst,Aurora,Poke,Qiyana,Assassin AD,Sona,Utility Support,0
+KR_7638472619,Lucian,DPS Marksman,Ahri,Burst,Varus,Poke,Galio,CC Tank,Senna,DPS Marksman,Xerath,Poke,Gragas,Sustain Mage,Rumble,Sustain Mage,Maokai,CC Tank,Aphelios,DPS Marksman,1
+KR_7639468274,Naafiri,Assassin AD,Ezreal,Poke,Zeri,DPS Marksman,Trundle,Bruiser AD,Karthus,Burst,Ivern,Utility Support,Kalista,DPS Marksman,Sett,Bruiser AD,Nidalee,Poke,Shaco,Assassin AD,1
+KR_7638504304,Sylas,Bruiser AP,Senna,DPS Marksman,Yone,Bruiser AD,Nidalee,Poke,Varus,Poke,Jhin,Poke,Pyke,Assassin AD,Kayn,Assassin AD,Karma,Utility Support,Zoe,Poke,1
+KR_7639278428,Galio,CC Tank,Mordekaiser,Bruiser AP,Aurora,Poke,Pyke,Assassin AD,Twitch,DPS Marksman,Samira,DPS Marksman,Gragas,Sustain Mage,Alistar,CC Tank,Singed,Sustain Tank,Shaco,Assassin AD,1
+KR_7638352777,Neeko,Burst,Morgana,Poke,Maokai,CC Tank,Yone,Bruiser AD,Nautilus,CC Tank,Varus,Poke,Blitzcrank,CC Tank,Heimerdinger,Poke,Shen,Sustain Tank,Ziggs,Poke,0
+KR_7639543865,Karthus,Burst,Aphelios,DPS Marksman,Alistar,CC Tank,Varus,Poke,Lillia,Sustain Mage,Viego,Bruiser AD,Orianna,Burst,Yasuo,Bruiser AD,Ornn,Sustain Tank,Kennen,Burst,0
+KR_7637099195,Yone,Bruiser AD,Milio,Utility Support,Anivia,Poke,Zoe,Poke,Gangplank,Poke,Ahri,Burst,Ziggs,Poke,Swain,Sustain Mage,Draven,DPS Marksman,Bard,Utility Support,0
+KR_7637078811,Aurora,Poke,Gnar,Bruiser AD,Zilean,Utility Support,Pantheon,Bruiser AD,Pyke,Assassin AD,Draven,DPS Marksman,Varus,Poke,Zed,Assassin AD,Leona,CC Tank,Azir,Poke,0
+KR_7637019781,Janna,Utility Support,Corki,Poke,Heimerdinger,Poke,Kindred,DPS Marksman,Lissandra,Burst,Tristana,DPS Marksman,Vladimir,Sustain Mage,Illaoi,Bruiser AD,Taliyah,Poke,Yone,Bruiser AD,1
+KR_7636978914,Zyra,Poke,Jayce,Poke,Ezreal,Poke,Poppy,CC Tank,Neeko,Burst,Braum,CC Tank,Caitlyn,Poke,Anivia,Poke,Orianna,Burst,Sion,Sustain Tank,1
+KR_7639132913,Kayn,Assassin AD,Milio,Utility Support,Akshan,Assassin AD,Renekton,Bruiser AD,Quinn,Poke,Samira,DPS Marksman,Illaoi,Bruiser AD,Jax,Bruiser AD,Fiora,Bruiser AD,Zyra,Poke,1
+KR_7639057378,Illaoi,Bruiser AD,Xerath,Poke,Fiora,Bruiser AD,Shen,Sustain Tank,Jhin,Poke,Fizz,Burst,Swain,Sustain Mage,Viego,Bruiser AD,Bard,Utility Support,Jayce,Poke,1
+KR_7639088627,Sivir,DPS Marksman,Zyra,Poke,Morgana,Poke,Azir,Poke,Pyke,Assassin AD,Vex,Burst,Viego,Bruiser AD,Ornn,Sustain Tank,Ziggs,Poke,Corki,Poke,0
+KR_7639042289,Jhin,Poke,Nasus,Bruiser AD,Yasuo,Bruiser AD,Seraphine,Utility Support,Thresh,Utility Support,Ryze,Bruiser AD,Syndra,Burst,Akshan,Assassin AD,Pantheon,Bruiser AD,Brand,Burst,1
+KR_7639089547,Alistar,CC Tank,Skarner,CC Tank,Karma,Utility Support,Senna,DPS Marksman,Brand,Burst,Gragas,Sustain Mage,Graves,Poke,Gangplank,Poke,Sylas,Bruiser AP,Braum,CC Tank,1
+KR_7638936535,Heimerdinger,Poke,Jinx,DPS Marksman,Quinn,Poke,Sion,Sustain Tank,Morgana,Poke,Thresh,Utility Support,Rumble,Sustain Mage,Lux,Poke,Zed,Assassin AD,Sivir,DPS Marksman,0
+KR_7639417955,Lux,Poke,Vi,Bruiser AD,Akali,Burst,Aatrox,Bruiser AD,Soraka,Utility Support,Vayne,DPS Marksman,Senna,DPS Marksman,Viego,Bruiser AD,Yasuo,Bruiser AD,Milio,Utility Support,0
+KR_7639110844,Senna,DPS Marksman,Ashe,Poke,Karthus,Burst,Irelia,Bruiser AD,Janna,Utility Support,Hecarim,Bruiser AD,Azir,Poke,Tristana,DPS Marksman,Zac,CC Tank,Pyke,Assassin AD,0
+KR_7639110987,Jhin,Poke,Volibear,Sustain Tank,Teemo,Poke,Zoe,Poke,Kayle,Bruiser AD,Amumu,CC Tank,Karma,Utility Support,Kennen,Burst,Katarina,Burst,Samira,DPS Marksman,1
+KR_7637938497,Ashe,Poke,Zac,CC Tank,Lillia,Sustain Mage,Kindred,DPS Marksman,Zeri,DPS Marksman,Caitlyn,Poke,Lux,Poke,Vladimir,Sustain Mage,Viktor,Poke,Zed,Assassin AD,0
+KR_7639522054,Leona,CC Tank,Morgana,Poke,Renekton,Bruiser AD,Lucian,DPS Marksman,Zeri,DPS Marksman,Soraka,Utility Support,Annie,Burst,Sivir,DPS Marksman,Vi,Bruiser AD,Varus,Poke,1
+KR_7637994864,Tristana,DPS Marksman,Hecarim,Bruiser AD,Karma,Utility Support,Thresh,Utility Support,Ezreal,Poke,Kennen,Burst,Katarina,Burst,Zilean,Utility Support,Viego,Bruiser AD,Caitlyn,Poke,0
+KR_7636832038,Singed,Sustain Tank,Diana,Burst,Maokai,CC Tank,Aphelios,DPS Marksman,Annie,Burst,Vladimir,Sustain Mage,Skarner,CC Tank,Ahri,Burst,Graves,Poke,Shen,Sustain Tank,1
+KR_7639006966,Lucian,DPS Marksman,Gragas,Sustain Mage,Zed,Assassin AD,Neeko,Burst,Aatrox,Bruiser AD,Twitch,DPS Marksman,Vladimir,Sustain Mage,Lillia,Sustain Mage,Seraphine,Utility Support,Jayce,Poke,1
+KR_7639033023,Ambessa,Bruiser AD,Annie,Burst,Akshan,Assassin AD,Irelia,Bruiser AD,Soraka,Utility Support,Shaco,Assassin AD,Aphelios,DPS Marksman,Ornn,Sustain Tank,Viktor,Poke,Janna,Utility Support,0
+KR_7638961982,Lillia,Sustain Mage,Graves,Poke,Kassadin,Burst,Rell,CC Tank,Aurora,Poke,Samira,DPS Marksman,Camille,Bruiser AD,Jayce,Poke,Akali,Burst,Shaco,Assassin AD,1
+KR_7639237206,Quinn,Poke,Malzahar,Poke,Graves,Poke,Viktor,Poke,Vladimir,Sustain Mage,Teemo,Poke,Smolder,Poke,Aatrox,Bruiser AD,Sion,Sustain Tank,Vayne,DPS Marksman,1
+KR_7639002420,Lissandra,Burst,Leona,CC Tank,Morgana,Poke,Corki,Poke,Xerath,Poke,Yuumi,Utility Support,Kennen,Burst,Ahri,Burst,Senna,DPS Marksman,Mordekaiser,Bruiser AP,1
+KR_7639033027,Quinn,Poke,Zyra,Poke,Xerath,Poke,Vayne,DPS Marksman,Aurora,Poke,Soraka,Utility Support,Viego,Bruiser AD,Thresh,Utility Support,Nasus,Bruiser AD,Tristana,DPS Marksman,0
+KR_7639005039,Brand,Burst,Varus,Poke,Ashe,Poke,Xerath,Poke,Alistar,CC Tank,Kassadin,Burst,Rumble,Sustain Mage,Nami,Utility Support,Sion,Sustain Tank,Zed,Assassin AD,0
+KR_7637293625,Rammus,CC Tank,Kassadin,Burst,Kalista,DPS Marksman,Jhin,Poke,Aatrox,Bruiser AD,Pyke,Assassin AD,Aphelios,DPS Marksman,Ahri,Burst,Ziggs,Poke,Sivir,DPS Marksman,1
+KR_7636036119,Rumble,Sustain Mage,Xerath,Poke,Singed,Sustain Tank,Katarina,Burst,Yasuo,Bruiser AD,Ryze,Bruiser AD,Amumu,CC Tank,Vayne,DPS Marksman,Gangplank,Poke,Soraka,Utility Support,0
+KR_7638306325,Hwei,Poke,Ornn,Sustain Tank,Sivir,DPS Marksman,Orianna,Burst,Rakan,Utility Support,Heimerdinger,Poke,Rumble,Sustain Mage,Leona,CC Tank,Xayah,DPS Marksman,Brand,Burst,1
+KR_7636927950,Lulu,Utility Support,Jinx,DPS Marksman,Ashe,Poke,Ekko,Burst,Galio,CC Tank,Karthus,Burst,Zeri,DPS Marksman,Veigar,Burst,Jayce,Poke,Ezreal,Poke,1
+KR_7639479245,Caitlyn,Poke,Yone,Bruiser AD,Rammus,CC Tank,Sett,Bruiser AD,Smolder,Poke,Ornn,Sustain Tank,Viktor,Poke,Graves,Poke,Hwei,Poke,Pyke,Assassin AD,0
+KR_7638355088,Orianna,Burst,Tryndamere,Bruiser AD,Pyke,Assassin AD,Aatrox,Bruiser AD,Annie,Burst,Akshan,Assassin AD,Irelia,Bruiser AD,Rell,CC Tank,Mordekaiser,Bruiser AP,Seraphine,Utility Support,1
+KR_7639461039,Twitch,DPS Marksman,Sivir,DPS Marksman,Nidalee,Poke,Sona,Utility Support,Leona,CC Tank,Galio,CC Tank,Gangplank,Poke,Rengar,Assassin AD,Brand,Burst,Kalista,DPS Marksman,0
+KR_7639535727,Lucian,DPS Marksman,Yuumi,Utility Support,Malphite,Sustain Tank,Zed,Assassin AD,Vi,Bruiser AD,Jhin,Poke,Ivern,Utility Support,Nocturne,Assassin AD,Milio,Utility Support,Aurora,Poke,1
+KR_7639597854,Vayne,DPS Marksman,Alistar,CC Tank,Hwei,Poke,Zed,Assassin AD,Malzahar,Poke,Naafiri,Assassin AD,Soraka,Utility Support,Veigar,Burst,Garen,Bruiser AD,Varus,Poke,1
+KR_7639590584,Blitzcrank,CC Tank,Orianna,Burst,Draven,DPS Marksman,Taliyah,Poke,Camille,Bruiser AD,Yuumi,Utility Support,Lucian,DPS Marksman,Hwei,Poke,Zoe,Poke,Rumble,Sustain Mage,0
+KR_7639601795,Veigar,Burst,Jinx,DPS Marksman,Rell,CC Tank,Annie,Burst,Morgana,Poke,Ziggs,Poke,Malzahar,Poke,Zeri,DPS Marksman,Malphite,Sustain Tank,Aatrox,Bruiser AD,0
+KR_7623796808,Senna,DPS Marksman,Diana,Burst,Yone,Bruiser AD,Skarner,CC Tank,Zoe,Poke,Ziggs,Poke,Quinn,Poke,Varus,Poke,Aatrox,Bruiser AD,Lux,Poke,1
+KR_7638335222,Gragas,Sustain Mage,Rumble,Sustain Mage,Veigar,Burst,Soraka,Utility Support,Kalista,DPS Marksman,Varus,Poke,Vex,Burst,Garen,Bruiser AD,Lucian,DPS Marksman,Shaco,Assassin AD,1
+KR_7616610921,Ezreal,Poke,Lulu,Utility Support,Morgana,Poke,Sylas,Bruiser AP,Malphite,Sustain Tank,Vladimir,Sustain Mage,Shaco,Assassin AD,Blitzcrank,CC Tank,Varus,Poke,Samira,DPS Marksman,1
+KR_7630959104,Ahri,Burst,Zed,Assassin AD,Viego,Bruiser AD,Sejuani,CC Tank,Rakan,Utility Support,Morgana,Poke,Yuumi,Utility Support,Vi,Bruiser AD,Karthus,Burst,Shen,Sustain Tank,0
+KR_7636920283,Soraka,Utility Support,Qiyana,Assassin AD,Shaco,Assassin AD,Jhin,Poke,Neeko,Burst,Nilah,DPS Marksman,Yuumi,Utility Support,Smolder,Poke,Janna,Utility Support,Shen,Sustain Tank,1
+KR_7639455938,Hwei,Poke,Rumble,Sustain Mage,Zoe,Poke,Sion,Sustain Tank,Shaco,Assassin AD,Nasus,Bruiser AD,Lillia,Sustain Mage,Viktor,Poke,Rengar,Assassin AD,Senna,DPS Marksman,0
+KR_7624800069,Senna,DPS Marksman,Jinx,DPS Marksman,Lulu,Utility Support,Ezreal,Poke,Varus,Poke,Ziggs,Poke,Shyvana,Bruiser AD,Rumble,Sustain Mage,Jhin,Poke,Syndra,Burst,0
+KR_7624424179,Skarner,CC Tank,Fizz,Burst,Malzahar,Poke,Garen,Bruiser AD,Rumble,Sustain Mage,Blitzcrank,CC Tank,Corki,Poke,Nautilus,CC Tank,Brand,Burst,Kassadin,Burst,1
+KR_7635218628,Ashe,Poke,Yasuo,Bruiser AD,Blitzcrank,CC Tank,Heimerdinger,Poke,Diana,Burst,Rumble,Sustain Mage,Skarner,CC Tank,Malzahar,Poke,Sivir,DPS Marksman,Qiyana,Assassin AD,1
+KR_7572188211,Lux,Poke,Volibear,Sustain Tank,Rengar,Assassin AD,Ezreal,Poke,Rumble,Sustain Mage,Veigar,Burst,Pantheon,Bruiser AD,Varus,Poke,Illaoi,Bruiser AD,Vi,Bruiser AD,0
+KR_7639570318,Senna,DPS Marksman,Xerath,Poke,Orianna,Burst,Malphite,Sustain Tank,Jinx,DPS Marksman,Ezreal,Poke,Hwei,Poke,Amumu,CC Tank,Kassadin,Burst,Kayn,Assassin AD,0
+KR_7635242719,Zilean,Utility Support,Orianna,Burst,Thresh,Utility Support,Xayah,DPS Marksman,Warwick,Bruiser AD,Tryndamere,Bruiser AD,Jinx,DPS Marksman,Zed,Assassin AD,Brand,Burst,Malphite,Sustain Tank,1
+KR_7638675389,Lucian,DPS Marksman,Amumu,CC Tank,Quinn,Poke,Ivern,Utility Support,Lillia,Sustain Mage,Hwei,Poke,Sona,Utility Support,Illaoi,Bruiser AD,Jhin,Poke,Teemo,Poke,0
+KR_7612567023,Swain,Sustain Mage,Sivir,DPS Marksman,Anivia,Poke,Rammus,CC Tank,Corki,Poke,Twitch,DPS Marksman,Morgana,Poke,Blitzcrank,CC Tank,Caitlyn,Poke,Kassadin,Burst,1
+KR_7638807859,Jhin,Poke,Vi,Bruiser AD,Irelia,Bruiser AD,Kennen,Burst,Karma,Utility Support,Brand,Burst,Illaoi,Bruiser AD,Ashe,Poke,Jinx,DPS Marksman,Veigar,Burst,1
+KR_7638808144,Hwei,Poke,Nautilus,CC Tank,Ahri,Burst,Fizz,Burst,Mordekaiser,Bruiser AP,Ashe,Poke,Lucian,DPS Marksman,Pantheon,Bruiser AD,Swain,Sustain Mage,Soraka,Utility Support,0
+KR_7639476097,Malzahar,Poke,Pyke,Assassin AD,Garen,Bruiser AD,Soraka,Utility Support,Lucian,DPS Marksman,Jinx,DPS Marksman,Leona,CC Tank,Lux,Poke,Varus,Poke,Milio,Utility Support,1
+KR_7637128762,Jayce,Poke,Brand,Burst,Karma,Utility Support,Xayah,DPS Marksman,Teemo,Poke,Orianna,Burst,Ashe,Poke,Olaf,Bruiser AD,Nocturne,Assassin AD,Taliyah,Poke,1
+KR_7639388885,Sett,Bruiser AD,Aurora,Poke,Ekko,Burst,Teemo,Poke,Shen,Sustain Tank,Neeko,Burst,Zyra,Poke,Vayne,DPS Marksman,Galio,CC Tank,Akshan,Assassin AD,1
+KR_7639447846,Brand,Burst,Quinn,Poke,Diana,Burst,Xerath,Poke,Jinx,DPS Marksman,Tristana,DPS Marksman,Anivia,Poke,Nami,Utility Support,Aurora,Poke,Taliyah,Poke,1
+KR_7638967728,Vayne,DPS Marksman,Soraka,Utility Support,Malphite,Sustain Tank,Shaco,Assassin AD,Ashe,Poke,Ezreal,Poke,Jhin,Poke,Cassiopeia,Sustain Mage,Pantheon,Bruiser AD,Gwen,Bruiser AP,1
+KR_7638936859,Pantheon,Bruiser AD,Ezreal,Poke,Lux,Poke,Senna,DPS Marksman,Jax,Bruiser AD,Malphite,Sustain Tank,Sylas,Bruiser AP,Zyra,Poke,Viktor,Poke,Corki,Poke,0
+KR_7636980765,Sylas,Bruiser AP,Kayle,Bruiser AD,Brand,Burst,Senna,DPS Marksman,Riven,Bruiser AD,Tristana,DPS Marksman,Gragas,Sustain Mage,Yasuo,Bruiser AD,Jhin,Poke,Darius,Bruiser AD,1
+KR_7639360379,Swain,Sustain Mage,Neeko,Burst,Taliyah,Poke,Jax,Bruiser AD,Tristana,DPS Marksman,Sylas,Bruiser AP,Annie,Burst,Rammus,CC Tank,Senna,DPS Marksman,Kennen,Burst,0
+KR_7636958648,Olaf,Bruiser AD,Brand,Burst,Amumu,CC Tank,Ashe,Poke,Anivia,Poke,Morgana,Poke,Caitlyn,Poke,Jax,Bruiser AD,Vex,Burst,Zoe,Poke,1
+KR_7639580593,Morgana,Poke,Malphite,Sustain Tank,Veigar,Burst,Vayne,DPS Marksman,Blitzcrank,CC Tank,Smolder,Poke,Sejuani,CC Tank,Malzahar,Poke,Vi,Bruiser AD,Ezreal,Poke,1
+KR_7638385079,Heimerdinger,Poke,Blitzcrank,CC Tank,Smolder,Poke,Brand,Burst,Milio,Utility Support,Tristana,DPS Marksman,Jhin,Poke,Malzahar,Poke,Jayce,Poke,Nautilus,CC Tank,0
+KR_7639573625,Aatrox,Bruiser AD,Ashe,Poke,Gangplank,Poke,Jhin,Poke,Karma,Utility Support,Malphite,Sustain Tank,Varus,Poke,Viktor,Poke,Blitzcrank,CC Tank,Shen,Sustain Tank,0
+KR_7636887017,Brand,Burst,Thresh,Utility Support,Aurora,Poke,Smolder,Poke,Zed,Assassin AD,Viktor,Poke,Nami,Utility Support,Yasuo,Bruiser AD,Teemo,Poke,Shyvana,Bruiser AD,1
+KR_7636851935,Twitch,DPS Marksman,Thresh,Utility Support,Gragas,Sustain Mage,Azir,Poke,Swain,Sustain Mage,Smolder,Poke,Lux,Poke,Yasuo,Bruiser AD,Aphelios,DPS Marksman,Sylas,Bruiser AP,0
+KR_7638132764,Nautilus,CC Tank,Jinx,DPS Marksman,Zoe,Poke,Jhin,Poke,Soraka,Utility Support,Garen,Bruiser AD,Varus,Poke,Morgana,Poke,Lux,Poke,Shyvana,Bruiser AD,1
+KR_7639544174,Janna,Utility Support,Kayn,Assassin AD,Nautilus,CC Tank,Xayah,DPS Marksman,Cassiopeia,Sustain Mage,Xerath,Poke,Renekton,Bruiser AD,Zed,Assassin AD,Fizz,Burst,Viego,Bruiser AD,1
+KR_7636937107,Yone,Bruiser AD,Kindred,DPS Marksman,Irelia,Bruiser AD,Neeko,Burst,Janna,Utility Support,Fizz,Burst,Ziggs,Poke,Vayne,DPS Marksman,Singed,Sustain Tank,Twitch,DPS Marksman,1
+KR_7636913078,Lulu,Utility Support,Sivir,DPS Marksman,Graves,Poke,Ahri,Burst,Malphite,Sustain Tank,Shen,Sustain Tank,Teemo,Poke,Nautilus,CC Tank,Pantheon,Bruiser AD,Twitch,DPS Marksman,0
+KR_7639446046,Jinx,DPS Marksman,Karma,Utility Support,Sion,Sustain Tank,Kennen,Burst,Ahri,Burst,Jayce,Poke,Senna,DPS Marksman,Lux,Poke,Viktor,Poke,Taric,Utility Support,0
+KR_7639605614,Mordekaiser,Bruiser AP,Vladimir,Sustain Mage,Jax,Bruiser AD,Yone,Bruiser AD,Shyvana,Bruiser AD,Jhin,Poke,Seraphine,Utility Support,Katarina,Burst,Kayle,Bruiser AD,Samira,DPS Marksman,1
+KR_7639525101,Vladimir,Sustain Mage,Ashe,Poke,Rell,CC Tank,Zyra,Poke,Hwei,Poke,Graves,Poke,Viego,Bruiser AD,Briar,Bruiser AD,Tristana,DPS Marksman,Malphite,Sustain Tank,1
+KR_7638522475,Azir,Poke,Akshan,Assassin AD,Briar,Bruiser AD,Nasus,Bruiser AD,Kayn,Assassin AD,Varus,Poke,Viktor,Poke,Ekko,Burst,Graves,Poke,Tristana,DPS Marksman,0
+KR_7639599697,Kennen,Burst,Jhin,Poke,Galio,CC Tank,Aphelios,DPS Marksman,Nautilus,CC Tank,Varus,Poke,Akshan,Assassin AD,Katarina,Burst,Orianna,Burst,Sylas,Bruiser AP,1
+KR_7638563002,Kassadin,Burst,Sona,Utility Support,Elise,Burst,Poppy,CC Tank,Senna,DPS Marksman,Ambessa,Bruiser AD,Pantheon,Bruiser AD,Jinx,DPS Marksman,Xerath,Poke,Sivir,DPS Marksman,1
+KR_7638540754,Yuumi,Utility Support,Annie,Burst,Nautilus,CC Tank,Morgana,Poke,Ezreal,Poke,Ashe,Poke,Maokai,CC Tank,Shen,Sustain Tank,Malphite,Sustain Tank,Vladimir,Sustain Mage,1
+KR_7637660570,Urgot,Bruiser AD,Galio,CC Tank,Vayne,DPS Marksman,Jhin,Poke,Nilah,DPS Marksman,Yuumi,Utility Support,Nautilus,CC Tank,Varus,Poke,Xayah,DPS Marksman,Pantheon,Bruiser AD,0
+KR_7635078961,Pantheon,Bruiser AD,Sylas,Bruiser AP,Sivir,DPS Marksman,Diana,Burst,Amumu,CC Tank,Milio,Utility Support,Karthus,Burst,Twitch,DPS Marksman,Morgana,Poke,Galio,CC Tank,1
+KR_7633142098,Galio,CC Tank,Jinx,DPS Marksman,Jhin,Poke,Talon,Assassin AD,Brand,Burst,Aatrox,Bruiser AD,Xerath,Poke,Zilean,Utility Support,Kennen,Burst,Blitzcrank,CC Tank,1
+KR_7628487352,Mordekaiser,Bruiser AP,Draven,DPS Marksman,Ryze,Bruiser AD,Sion,Sustain Tank,Karma,Utility Support,Garen,Bruiser AD,Alistar,CC Tank,Fizz,Burst,Zyra,Poke,Varus,Poke,0
+KR_7639358174,Jax,Bruiser AD,Kennen,Burst,Karma,Utility Support,Xayah,DPS Marksman,Sylas,Bruiser AP,Caitlyn,Poke,Illaoi,Bruiser AD,Teemo,Poke,Vi,Bruiser AD,Nidalee,Poke,1
+KR_7639324729,Udyr,Bruiser AD,Vayne,DPS Marksman,Nautilus,CC Tank,Morgana,Poke,Nasus,Bruiser AD,Zed,Assassin AD,Jhin,Poke,Malzahar,Poke,Jinx,DPS Marksman,Illaoi,Bruiser AD,1
+KR_7638887379,Hwei,Poke,Tryndamere,Bruiser AD,Yorick,Sustain Tank,Neeko,Burst,Seraphine,Utility Support,Nilah,DPS Marksman,Viktor,Poke,Nasus,Bruiser AD,Xayah,DPS Marksman,Orianna,Burst,1
+KR_7638841806,Lucian,DPS Marksman,Senna,DPS Marksman,Samira,DPS Marksman,Kled,Bruiser AD,Karma,Utility Support,Hwei,Poke,Caitlyn,Poke,Sion,Sustain Tank,Vi,Bruiser AD,Nautilus,CC Tank,0
+KR_7637696023,Rumble,Sustain Mage,Shen,Sustain Tank,Neeko,Burst,Sett,Bruiser AD,Illaoi,Bruiser AD,Sivir,DPS Marksman,Yone,Bruiser AD,Zyra,Poke,Pantheon,Bruiser AD,Lillia,Sustain Mage,0
+KR_7611760265,Trundle,Bruiser AD,Leona,CC Tank,Fizz,Burst,Lillia,Sustain Mage,Ezreal,Poke,Annie,Burst,Pyke,Assassin AD,Urgot,Bruiser AD,Teemo,Poke,Kayn,Assassin AD,0
+KR_7639553256,Karthus,Burst,Ahri,Burst,Senna,DPS Marksman,Xerath,Poke,Trundle,Bruiser AD,Seraphine,Utility Support,Gragas,Sustain Mage,Jhin,Poke,Sylas,Bruiser AP,Milio,Utility Support,0
+KR_7639451308,Nautilus,CC Tank,Zilean,Utility Support,Smolder,Poke,Nidalee,Poke,Naafiri,Assassin AD,Maokai,CC Tank,Zoe,Poke,Kennen,Burst,Ivern,Utility Support,Xerath,Poke,0
+KR_7638798117,Lissandra,Burst,Neeko,Burst,Sivir,DPS Marksman,Blitzcrank,CC Tank,Kayn,Assassin AD,Zeri,DPS Marksman,Pantheon,Bruiser AD,Naafiri,Assassin AD,Viktor,Poke,Briar,Bruiser AD,0
+KR_7638957247,Annie,Burst,Smolder,Poke,Graves,Poke,Karma,Utility Support,Mordekaiser,Bruiser AP,Soraka,Utility Support,Galio,CC Tank,Kindred,DPS Marksman,Ahri,Burst,Shaco,Assassin AD,1
+KR_7638906204,Jhin,Poke,Jinx,DPS Marksman,Diana,Burst,Hecarim,Bruiser AD,Lux,Poke,Graves,Poke,Smolder,Poke,Yuumi,Utility Support,Taliyah,Poke,Veigar,Burst,1
+KR_7623474658,Maokai,CC Tank,Hwei,Poke,Vi,Bruiser AD,Kayle,Bruiser AD,Kennen,Burst,Ashe,Poke,Ornn,Sustain Tank,Draven,DPS Marksman,Rumble,Sustain Mage,Fizz,Burst,1
+KR_7635548420,Maokai,CC Tank,Zyra,Poke,Singed,Sustain Tank,Jinx,DPS Marksman,Morgana,Poke,Ziggs,Poke,Akali,Burst,Nocturne,Assassin AD,Braum,CC Tank,Ezreal,Poke,0
+KR_7638531027,Tristana,DPS Marksman,Ornn,Sustain Tank,Warwick,Bruiser AD,Swain,Sustain Mage,Taliyah,Poke,Karthus,Burst,Lux,Poke,Zeri,DPS Marksman,Vex,Burst,Naafiri,Assassin AD,1
+KR_7638511648,Katarina,Burst,Janna,Utility Support,Shaco,Assassin AD,Lucian,DPS Marksman,Aurora,Poke,Smolder,Poke,Jinx,DPS Marksman,Taliyah,Poke,Lux,Poke,Pantheon,Bruiser AD,1
+KR_7637718491,Olaf,Bruiser AD,Teemo,Poke,Lulu,Utility Support,Draven,DPS Marksman,Lux,Poke,Zilean,Utility Support,Fiora,Bruiser AD,Zac,CC Tank,Gnar,Bruiser AD,Pyke,Assassin AD,0
+KR_7638727084,Galio,CC Tank,Lulu,Utility Support,Vayne,DPS Marksman,Kayn,Assassin AD,Vladimir,Sustain Mage,Zoe,Poke,Blitzcrank,CC Tank,Ezreal,Poke,Draven,DPS Marksman,Jayce,Poke,0
+KR_7637968981,Irelia,Bruiser AD,Viktor,Poke,Jax,Bruiser AD,Evelynn,Burst,Neeko,Burst,Hwei,Poke,Xerath,Poke,Gragas,Sustain Mage,Yone,Bruiser AD,Jinx,DPS Marksman,1
+KR_7637937572,Neeko,Burst,Lillia,Sustain Mage,Nautilus,CC Tank,Zed,Assassin AD,Xerath,Poke,Brand,Burst,Sylas,Bruiser AP,Senna,DPS Marksman,Diana,Burst,Sett,Bruiser AD,0
+KR_7637659092,Sivir,DPS Marksman,Annie,Burst,Tristana,DPS Marksman,Shen,Sustain Tank,Teemo,Poke,Akali,Burst,Samira,DPS Marksman,Kindred,DPS Marksman,Yuumi,Utility Support,Morgana,Poke,0
+KR_7638824665,Viktor,Poke,Jhin,Poke,Ahri,Burst,Akshan,Assassin AD,Lillia,Sustain Mage,Samira,DPS Marksman,Smolder,Poke,Shaco,Assassin AD,Shen,Sustain Tank,Teemo,Poke,0
+KR_7638769380,Karma,Utility Support,Garen,Bruiser AD,Braum,CC Tank,Senna,DPS Marksman,Tristana,DPS Marksman,Varus,Poke,Rumble,Sustain Mage,Warwick,Bruiser AD,Xayah,DPS Marksman,Amumu,CC Tank,0
+KR_7637456562,Zoe,Poke,Xerath,Poke,Vladimir,Sustain Mage,Karma,Utility Support,Viego,Bruiser AD,Vex,Burst,Ziggs,Poke,Zed,Assassin AD,Rammus,CC Tank,Alistar,CC Tank,1
+KR_7633752266,Trundle,Bruiser AD,Brand,Burst,Sett,Bruiser AD,Malzahar,Poke,Elise,Burst,Sona,Utility Support,Morgana,Poke,Caitlyn,Poke,Amumu,CC Tank,Nocturne,Assassin AD,0
+KR_7633638165,Xerath,Poke,Tristana,DPS Marksman,Nidalee,Poke,Hwei,Poke,Shen,Sustain Tank,Ahri,Burst,Neeko,Burst,Gragas,Sustain Mage,Zyra,Poke,Teemo,Poke,1
+KR_7633558250,Zyra,Poke,Jax,Bruiser AD,Graves,Poke,Blitzcrank,CC Tank,Lux,Poke,Darius,Bruiser AD,Kennen,Burst,Soraka,Utility Support,Garen,Bruiser AD,Jinx,DPS Marksman,0
+KR_7627292020,Akali,Burst,Sett,Bruiser AD,Malphite,Sustain Tank,Heimerdinger,Poke,Tristana,DPS Marksman,Braum,CC Tank,Jinx,DPS Marksman,Bard,Utility Support,Senna,DPS Marksman,Veigar,Burst,1
+KR_7625791059,Brand,Burst,Shaco,Assassin AD,Ashe,Poke,Evelynn,Burst,Jinx,DPS Marksman,Vi,Bruiser AD,Janna,Utility Support,Heimerdinger,Poke,Tryndamere,Bruiser AD,Riven,Bruiser AD,1
+KR_7625588776,Ezreal,Poke,Swain,Sustain Mage,Zeri,DPS Marksman,Gragas,Sustain Mage,Varus,Poke,Nami,Utility Support,Blitzcrank,CC Tank,Vex,Burst,Katarina,Burst,Kalista,DPS Marksman,1
+KR_7625517369,Tristana,DPS Marksman,Viktor,Poke,Xerath,Poke,Xayah,DPS Marksman,Graves,Poke,Azir,Poke,Jinx,DPS Marksman,Akali,Burst,Veigar,Burst,Sylas,Bruiser AP,1
+KR_7544565111,Taric,Utility Support,Kennen,Burst,Lulu,Utility Support,Anivia,Poke,Tristana,DPS Marksman,Cassiopeia,Sustain Mage,Varus,Poke,Akali,Burst,Ashe,Poke,Diana,Burst,1
+KR_7544560045,Morgana,Poke,Malphite,Sustain Tank,Shaco,Assassin AD,Varus,Poke,Zilean,Utility Support,Lucian,DPS Marksman,Tristana,DPS Marksman,Zeri,DPS Marksman,Nidalee,Poke,Thresh,Utility Support,1
+KR_7544408187,Shen,Sustain Tank,Brand,Burst,Caitlyn,Poke,Fizz,Burst,Orianna,Burst,Soraka,Utility Support,Yasuo,Bruiser AD,Twitch,DPS Marksman,Lucian,DPS Marksman,Lulu,Utility Support,1
+KR_7531703017,Nasus,Bruiser AD,Milio,Utility Support,Rumble,Sustain Mage,Yone,Bruiser AD,Zeri,DPS Marksman,Caitlyn,Poke,Elise,Burst,Vayne,DPS Marksman,Blitzcrank,CC Tank,Teemo,Poke,0
+KR_7630487652,Karma,Utility Support,Nautilus,CC Tank,Viego,Bruiser AD,Poppy,CC Tank,Morgana,Poke,Teemo,Poke,Aphelios,DPS Marksman,Veigar,Burst,Sett,Bruiser AD,Bard,Utility Support,0
+KR_7556601722,Aatrox,Bruiser AD,Warwick,Bruiser AD,Lulu,Utility Support,Xayah,DPS Marksman,Fizz,Burst,Braum,CC Tank,Darius,Bruiser AD,Rumble,Sustain Mage,Ashe,Poke,Kayle,Bruiser AD,0
+KR_7623141739,Yone,Bruiser AD,Syndra,Burst,Lillia,Sustain Mage,Warwick,Bruiser AD,Quinn,Poke,Nasus,Bruiser AD,Nidalee,Poke,Diana,Burst,Zilean,Utility Support,Seraphine,Utility Support,0
+KR_7623075900,Alistar,CC Tank,Aurora,Poke,Yasuo,Bruiser AD,Diana,Burst,Hwei,Poke,Ezreal,Poke,Thresh,Utility Support,Seraphine,Utility Support,Brand,Burst,Jhin,Poke,0
+KR_7610360207,Darius,Bruiser AD,Amumu,CC Tank,Neeko,Burst,Samira,DPS Marksman,Gnar,Bruiser AD,Yone,Bruiser AD,Brand,Burst,Seraphine,Utility Support,Jinx,DPS Marksman,Corki,Poke,1
+KR_7520191601,Zed,Assassin AD,Singed,Sustain Tank,Jayce,Poke,Zoe,Poke,Rumble,Sustain Mage,Varus,Poke,Galio,CC Tank,Thresh,Utility Support,Caitlyn,Poke,Lissandra,Burst,0
+KR_7438800140,Darius,Bruiser AD,Ambessa,Bruiser AD,Katarina,Burst,Ziggs,Poke,Soraka,Utility Support,Lux,Poke,Senna,DPS Marksman,Zed,Assassin AD,Diana,Burst,Yasuo,Bruiser AD,0
+KR_7414826881,Karthus,Burst,Pyke,Assassin AD,Jayce,Poke,Samira,DPS Marksman,Ryze,Bruiser AD,Qiyana,Assassin AD,Volibear,Sustain Tank,Varus,Poke,Heimerdinger,Poke,Lux,Poke,0
+KR_7637248963,Karma,Utility Support,Fiora,Bruiser AD,Nautilus,CC Tank,Renekton,Bruiser AD,Zilean,Utility Support,Fizz,Burst,Mordekaiser,Bruiser AP,Amumu,CC Tank,Kalista,DPS Marksman,Nasus,Bruiser AD,1
+KR_7635462822,Blitzcrank,CC Tank,Kalista,DPS Marksman,Nidalee,Poke,Warwick,Bruiser AD,Orianna,Burst,Morgana,Poke,Varus,Poke,Vladimir,Sustain Mage,Illaoi,Bruiser AD,Neeko,Burst,1
+KR_7634313733,Xerath,Poke,Kindred,DPS Marksman,Nautilus,CC Tank,Yasuo,Bruiser AD,Ahri,Burst,Vayne,DPS Marksman,Corki,Poke,Karthus,Burst,Zed,Assassin AD,Vi,Bruiser AD,1
+KR_7638950815,Blitzcrank,CC Tank,Vayne,DPS Marksman,Samira,DPS Marksman,Neeko,Burst,Amumu,CC Tank,Olaf,Bruiser AD,Senna,DPS Marksman,Nidalee,Poke,Jhin,Poke,Rakan,Utility Support,1
+KR_7638544506,Ivern,Utility Support,Varus,Poke,Blitzcrank,CC Tank,Lillia,Sustain Mage,Camille,Bruiser AD,Milio,Utility Support,Ziggs,Poke,Jhin,Poke,Sett,Bruiser AD,Pantheon,Bruiser AD,0
+KR_7634169828,Seraphine,Utility Support,Singed,Sustain Tank,Aurora,Poke,Jhin,Poke,Shen,Sustain Tank,Diana,Burst,Draven,DPS Marksman,Pyke,Assassin AD,Gragas,Sustain Mage,Ekko,Burst,1
+KR_7634142336,Qiyana,Assassin AD,Zyra,Poke,Jhin,Poke,Kennen,Burst,Xerath,Poke,Vladimir,Sustain Mage,Twitch,DPS Marksman,Jayce,Poke,Xayah,DPS Marksman,Yuumi,Utility Support,1
+KR_7634122373,Fizz,Burst,Gnar,Bruiser AD,Akali,Burst,Anivia,Poke,Jhin,Poke,Lulu,Utility Support,Swain,Sustain Mage,Varus,Poke,Ashe,Poke,Aphelios,DPS Marksman,1
+KR_7633027142,Seraphine,Utility Support,Kennen,Burst,Jax,Bruiser AD,Akshan,Assassin AD,Ornn,Sustain Tank,Ashe,Poke,Aphelios,DPS Marksman,Gwen,Bruiser AP,Corki,Poke,Urgot,Bruiser AD,1
+KR_7612698236,Sylas,Bruiser AP,Jax,Bruiser AD,Jinx,DPS Marksman,Zyra,Poke,Jayce,Poke,Blitzcrank,CC Tank,Viego,Bruiser AD,Kalista,DPS Marksman,Xerath,Poke,Twitch,DPS Marksman,1
+KR_7610077271,Karma,Utility Support,Sylas,Bruiser AP,Ezreal,Poke,Syndra,Burst,Gragas,Sustain Mage,Draven,DPS Marksman,Diana,Burst,Senna,DPS Marksman,Ashe,Poke,Udyr,Bruiser AD,0
+KR_7600716029,Kayle,Bruiser AD,Xerath,Poke,Lucian,DPS Marksman,Volibear,Sustain Tank,Amumu,CC Tank,Malphite,Sustain Tank,Caitlyn,Poke,Pantheon,Bruiser AD,Aphelios,DPS Marksman,Heimerdinger,Poke,1
+KR_7600657725,Kayle,Bruiser AD,Ziggs,Poke,Karma,Utility Support,Lillia,Sustain Mage,Diana,Burst,Jhin,Poke,Heimerdinger,Poke,Morgana,Poke,Sylas,Bruiser AP,Udyr,Bruiser AD,0
+KR_7639464083,Ekko,Burst,Neeko,Burst,Irelia,Bruiser AD,Hwei,Poke,Ornn,Sustain Tank,Katarina,Burst,Caitlyn,Poke,Shaco,Assassin AD,Annie,Burst,Senna,DPS Marksman,0
+KR_7639431734,Sett,Bruiser AD,Yone,Bruiser AD,Alistar,CC Tank,Orianna,Burst,Swain,Sustain Mage,Illaoi,Bruiser AD,Xerath,Poke,Zeri,DPS Marksman,Galio,CC Tank,Braum,CC Tank,1
+KR_7639231689,Zed,Assassin AD,Janna,Utility Support,Caitlyn,Poke,Zyra,Poke,Malzahar,Poke,Jinx,DPS Marksman,Teemo,Poke,Alistar,CC Tank,Evelynn,Burst,Pantheon,Bruiser AD,1
+KR_7639251087,Gragas,Sustain Mage,Lucian,DPS Marksman,Zeri,DPS Marksman,Leona,CC Tank,Rammus,CC Tank,Alistar,CC Tank,Caitlyn,Poke,Quinn,Poke,Seraphine,Utility Support,Lux,Poke,0
+KR_7639217098,Corki,Poke,Viego,Bruiser AD,Ekko,Burst,Sejuani,CC Tank,Ashe,Poke,Morgana,Poke,Soraka,Utility Support,Caitlyn,Poke,Xayah,DPS Marksman,Viktor,Poke,0
+KR_7639090787,Leona,CC Tank,Vayne,DPS Marksman,Veigar,Burst,Anivia,Poke,Yone,Bruiser AD,Lucian,DPS Marksman,Jhin,Poke,Caitlyn,Poke,Blitzcrank,CC Tank,Viktor,Poke,0
+KR_7636078187,Orianna,Burst,Singed,Sustain Tank,Sivir,DPS Marksman,Xerath,Poke,Corki,Poke,Sylas,Bruiser AP,Thresh,Utility Support,Neeko,Burst,Jhin,Poke,Yone,Bruiser AD,0
+KR_7635898390,Brand,Burst,Soraka,Utility Support,Cassiopeia,Sustain Mage,Ezreal,Poke,Taric,Utility Support,Sett,Bruiser AD,Kayle,Bruiser AD,Swain,Sustain Mage,Viktor,Poke,Jhin,Poke,0
+KR_7635868786,Aphelios,DPS Marksman,Zilean,Utility Support,Taliyah,Poke,Ryze,Bruiser AD,Swain,Sustain Mage,Poppy,CC Tank,Pantheon,Bruiser AD,Jhin,Poke,Teemo,Poke,Ezreal,Poke,0
+KR_7635789665,Akali,Burst,Sion,Sustain Tank,Milio,Utility Support,Varus,Poke,Rakan,Utility Support,Zilean,Utility Support,Ornn,Sustain Tank,Lillia,Sustain Mage,Sett,Bruiser AD,Caitlyn,Poke,0
+KR_7633927811,Sejuani,CC Tank,Nautilus,CC Tank,Ezreal,Poke,Yone,Bruiser AD,Jinx,DPS Marksman,Xerath,Poke,Caitlyn,Poke,Lulu,Utility Support,Blitzcrank,CC Tank,Fiora,Bruiser AD,1
+KR_7635073679,Tristana,DPS Marksman,Alistar,CC Tank,Pyke,Assassin AD,Zyra,Poke,Zac,CC Tank,Senna,DPS Marksman,Blitzcrank,CC Tank,Lucian,DPS Marksman,Viktor,Poke,Gragas,Sustain Mage,0
+KR_7634977283,Tristana,DPS Marksman,Akshan,Assassin AD,Ahri,Burst,Quinn,Poke,Teemo,Poke,Xerath,Poke,Smolder,Poke,Singed,Sustain Tank,Cassiopeia,Sustain Mage,Hwei,Poke,0
+KR_7634880405,Hecarim,Bruiser AD,Caitlyn,Poke,Azir,Poke,Kayle,Bruiser AD,Sylas,Bruiser AP,Teemo,Poke,Janna,Utility Support,Yasuo,Bruiser AD,Ahri,Burst,Milio,Utility Support,1
+KR_7634782299,Singed,Sustain Tank,Kindred,DPS Marksman,Jax,Bruiser AD,Seraphine,Utility Support,Ezreal,Poke,Yuumi,Utility Support,Morgana,Poke,Annie,Burst,Aphelios,DPS Marksman,Rell,CC Tank,0
+KR_7634746152,Gragas,Sustain Mage,Naafiri,Assassin AD,Sett,Bruiser AD,Akali,Burst,Nautilus,CC Tank,Zilean,Utility Support,Samira,DPS Marksman,Rammus,CC Tank,Ziggs,Poke,Lucian,DPS Marksman,0
+KR_7634631273,Janna,Utility Support,Annie,Burst,Kennen,Burst,Kayn,Assassin AD,Shen,Sustain Tank,Fizz,Burst,Kindred,DPS Marksman,Jinx,DPS Marksman,Nidalee,Poke,Gangplank,Poke,1
+KR_7637417026,Ahri,Burst,Graves,Poke,Xerath,Poke,Karma,Utility Support,Karthus,Burst,Fizz,Burst,Ornn,Sustain Tank,Rumble,Sustain Mage,Xayah,DPS Marksman,Leona,CC Tank,0
+KR_7608957131,Tryndamere,Bruiser AD,Aurora,Poke,Annie,Burst,Varus,Poke,Ezreal,Poke,Rumble,Sustain Mage,Azir,Poke,Neeko,Burst,Kayn,Assassin AD,Nautilus,CC Tank,0
+KR_7608878356,Yone,Bruiser AD,Zoe,Poke,Veigar,Burst,Karthus,Burst,Ashe,Poke,Brand,Burst,Ziggs,Poke,Zyra,Poke,Thresh,Utility Support,Kayle,Bruiser AD,0
+KR_7608866622,Leona,CC Tank,Rammus,CC Tank,Teemo,Poke,Jhin,Poke,Kennen,Burst,Lucian,DPS Marksman,Malzahar,Poke,Zilean,Utility Support,Xayah,DPS Marksman,Swain,Sustain Mage,1
+KR_7608842292,Katarina,Burst,Morgana,Poke,Garen,Bruiser AD,Xayah,DPS Marksman,Gragas,Sustain Mage,Kindred,DPS Marksman,Seraphine,Utility Support,Pyke,Assassin AD,Mordekaiser,Bruiser AP,Smolder,Poke,1
+KR_7608818938,Ziggs,Poke,Pyke,Assassin AD,Anivia,Poke,Ahri,Burst,Sejuani,CC Tank,Naafiri,Assassin AD,Diana,Burst,Twitch,DPS Marksman,Nautilus,CC Tank,Samira,DPS Marksman,1
+KR_7638059033,Samira,DPS Marksman,Pantheon,Bruiser AD,Thresh,Utility Support,Teemo,Poke,Kayle,Bruiser AD,Annie,Burst,Senna,DPS Marksman,Warwick,Bruiser AD,Ornn,Sustain Tank,Ezreal,Poke,0
+KR_7637997437,Malphite,Sustain Tank,Lillia,Sustain Mage,Rell,CC Tank,Aphelios,DPS Marksman,Blitzcrank,CC Tank,Seraphine,Utility Support,Shaco,Assassin AD,Teemo,Poke,Rumble,Sustain Mage,Rakan,Utility Support,1
+KR_7636582504,Zeri,DPS Marksman,Pyke,Assassin AD,Ahri,Burst,Sona,Utility Support,Karma,Utility Support,Sett,Bruiser AD,Fiora,Bruiser AD,Lillia,Sustain Mage,Jinx,DPS Marksman,Braum,CC Tank,1
+KR_7636555210,Varus,Poke,Zed,Assassin AD,Caitlyn,Poke,Sylas,Bruiser AP,Irelia,Bruiser AD,Ahri,Burst,Gragas,Sustain Mage,Fizz,Burst,Smolder,Poke,Kindred,DPS Marksman,1
+KR_7638244296,Nidalee,Poke,Ekko,Burst,Mordekaiser,Bruiser AP,Senna,DPS Marksman,Vi,Bruiser AD,Veigar,Burst,Ornn,Sustain Tank,Maokai,CC Tank,Kalista,DPS Marksman,Yuumi,Utility Support,1
+KR_7631158194,Lux,Poke,Jinx,DPS Marksman,Tristana,DPS Marksman,Kayn,Assassin AD,Blitzcrank,CC Tank,Zilean,Utility Support,Aphelios,DPS Marksman,Vladimir,Sustain Mage,Sona,Utility Support,Senna,DPS Marksman,0
+KR_7630363347,Jhin,Poke,Gangplank,Poke,Leona,CC Tank,Vladimir,Sustain Mage,Nami,Utility Support,Rumble,Sustain Mage,Soraka,Utility Support,Swain,Sustain Mage,Maokai,CC Tank,Sylas,Bruiser AP,1
+KR_7628805355,Warwick,Bruiser AD,Zoe,Poke,Udyr,Bruiser AD,Galio,CC Tank,Ezreal,Poke,Heimerdinger,Poke,Yone,Bruiser AD,Neeko,Burst,Soraka,Utility Support,Twitch,DPS Marksman,0
+KR_7639314548,Varus,Poke,Kayn,Assassin AD,Maokai,CC Tank,Nami,Utility Support,Rakan,Utility Support,Briar,Bruiser AD,Draven,DPS Marksman,Yone,Bruiser AD,Diana,Burst,Tryndamere,Bruiser AD,1
+KR_7638904513,Illaoi,Bruiser AD,Jinx,DPS Marksman,Zeri,DPS Marksman,Lux,Poke,Ezreal,Poke,Yasuo,Bruiser AD,Galio,CC Tank,Teemo,Poke,Singed,Sustain Tank,Smolder,Poke,1
+KR_7638840713,Qiyana,Assassin AD,Kennen,Burst,Morgana,Poke,Xayah,DPS Marksman,Tristana,DPS Marksman,Ashe,Poke,Blitzcrank,CC Tank,Kindred,DPS Marksman,Neeko,Burst,Kayle,Bruiser AD,0
+KR_7638822930,Shen,Sustain Tank,Orianna,Burst,Yone,Bruiser AD,Xayah,DPS Marksman,Sylas,Bruiser AP,Fizz,Burst,Sivir,DPS Marksman,Sejuani,CC Tank,Yuumi,Utility Support,Jinx,DPS Marksman,0
+KR_7638658218,Anivia,Poke,Samira,DPS Marksman,Talon,Assassin AD,Malphite,Sustain Tank,Aatrox,Bruiser AD,Ashe,Poke,Kalista,DPS Marksman,Pyke,Assassin AD,Brand,Burst,Viktor,Poke,0
+KR_7636692374,Nidalee,Poke,Vex,Burst,Sett,Bruiser AD,Samira,DPS Marksman,Nocturne,Assassin AD,Teemo,Poke,Briar,Bruiser AD,Xerath,Poke,Neeko,Burst,Rumble,Sustain Mage,1
+KR_7635330787,Veigar,Burst,Jayce,Poke,Lux,Poke,Rell,CC Tank,Varus,Poke,Aatrox,Bruiser AD,Maokai,CC Tank,Twitch,DPS Marksman,Thresh,Utility Support,Xerath,Poke,0
+KR_7633814624,Talon,Assassin AD,Sejuani,CC Tank,Yorick,Sustain Tank,Taric,Utility Support,Jhin,Poke,Akshan,Assassin AD,Braum,CC Tank,Ashe,Poke,Sona,Utility Support,Cassiopeia,Sustain Mage,1
+KR_7633803187,Vex,Burst,Samira,DPS Marksman,Karthus,Burst,Jayce,Poke,Cassiopeia,Sustain Mage,Janna,Utility Support,Sona,Utility Support,Corki,Poke,Xayah,DPS Marksman,Nidalee,Poke,1
+KR_7635457966,Xerath,Poke,Zeri,DPS Marksman,Renekton,Bruiser AD,Veigar,Burst,Seraphine,Utility Support,Talon,Assassin AD,Akali,Burst,Gnar,Bruiser AD,Karma,Utility Support,Teemo,Poke,0
+KR_7634150188,Akali,Burst,Garen,Bruiser AD,Malphite,Sustain Tank,Draven,DPS Marksman,Brand,Burst,Poppy,CC Tank,Zed,Assassin AD,Jhin,Poke,Annie,Burst,Varus,Poke,1
+KR_7634112123,Teemo,Poke,Sylas,Bruiser AP,Katarina,Burst,Draven,DPS Marksman,Aurora,Poke,Smolder,Poke,Lulu,Utility Support,Yone,Bruiser AD,Orianna,Burst,Nami,Utility Support,0
+KR_7632877027,Heimerdinger,Poke,Soraka,Utility Support,Vayne,DPS Marksman,Aurora,Poke,Twitch,DPS Marksman,Nidalee,Poke,Darius,Bruiser AD,Caitlyn,Poke,Senna,DPS Marksman,Teemo,Poke,1
+KR_7632852668,Xerath,Poke,Varus,Poke,Lissandra,Burst,Twitch,DPS Marksman,Galio,CC Tank,Trundle,Bruiser AD,Smolder,Poke,Zac,CC Tank,Singed,Sustain Tank,Akshan,Assassin AD,1
+KR_7636691343,Evelynn,Burst,Singed,Sustain Tank,Janna,Utility Support,Vayne,DPS Marksman,Shaco,Assassin AD,Twitch,DPS Marksman,Jayce,Poke,Yuumi,Utility Support,Neeko,Burst,Galio,CC Tank,1
+KR_7636641778,Cassiopeia,Sustain Mage,Orianna,Burst,Yone,Bruiser AD,Lux,Poke,Ornn,Sustain Tank,Viktor,Poke,Syndra,Burst,Caitlyn,Poke,Tryndamere,Bruiser AD,Taric,Utility Support,0
+KR_7636599249,Volibear,Sustain Tank,Annie,Burst,Briar,Bruiser AD,Rumble,Sustain Mage,Kalista,DPS Marksman,Jhin,Poke,Zac,CC Tank,Gwen,Bruiser AP,Vayne,DPS Marksman,Poppy,CC Tank,0
+KR_7636463973,Pyke,Assassin AD,Annie,Burst,Amumu,CC Tank,Jinx,DPS Marksman,Nidalee,Poke,Karthus,Burst,Sona,Utility Support,Malphite,Sustain Tank,Xayah,DPS Marksman,Shyvana,Bruiser AD,1
+KR_7635891949,Jax,Bruiser AD,Evelynn,Burst,Vladimir,Sustain Mage,Soraka,Utility Support,Katarina,Burst,Ashe,Poke,Ezreal,Poke,Seraphine,Utility Support,Shyvana,Bruiser AD,Aphelios,DPS Marksman,1
+KR_7635858335,Illaoi,Bruiser AD,Ahri,Burst,Zed,Assassin AD,Nidalee,Poke,Jinx,DPS Marksman,Teemo,Poke,Rammus,CC Tank,Samira,DPS Marksman,Varus,Poke,Ziggs,Poke,0
+KR_7615606722,Gragas,Sustain Mage,Aurora,Poke,Sona,Utility Support,Zoe,Poke,Sett,Bruiser AD,Akali,Burst,Brand,Burst,Milio,Utility Support,Xerath,Poke,Pyke,Assassin AD,1
+KR_7615573451,Graves,Poke,Veigar,Burst,Varus,Poke,Viktor,Poke,Senna,DPS Marksman,Lucian,DPS Marksman,Urgot,Bruiser AD,Xerath,Poke,Mordekaiser,Bruiser AP,Corki,Poke,1
+KR_7614696194,Jhin,Poke,Viktor,Poke,Ahri,Burst,Smolder,Poke,Rakan,Utility Support,Ezreal,Poke,Renekton,Bruiser AD,Malzahar,Poke,Caitlyn,Poke,Sejuani,CC Tank,0
+KR_7613050212,Darius,Bruiser AD,Pantheon,Bruiser AD,Karma,Utility Support,Malphite,Sustain Tank,Zeri,DPS Marksman,Sylas,Bruiser AP,Poppy,CC Tank,Morgana,Poke,Fizz,Burst,Jhin,Poke,1
+KR_7612342021,Syndra,Burst,Ornn,Sustain Tank,Vayne,DPS Marksman,Rell,CC Tank,Akali,Burst,Janna,Utility Support,Yasuo,Bruiser AD,Xerath,Poke,Tristana,DPS Marksman,Graves,Poke,0
+KR_7612309196,Gnar,Bruiser AD,Ornn,Sustain Tank,Varus,Poke,Ashe,Poke,Lux,Poke,Hwei,Poke,Galio,CC Tank,Xerath,Poke,Nidalee,Poke,Nilah,DPS Marksman,1
+KR_7565547768,Morgana,Poke,Azir,Poke,Lucian,DPS Marksman,Nidalee,Poke,Maokai,CC Tank,Soraka,Utility Support,Pantheon,Bruiser AD,Zac,CC Tank,Akali,Burst,Zyra,Poke,0
+KR_7556774655,Katarina,Burst,Corki,Poke,Mordekaiser,Bruiser AP,Amumu,CC Tank,Zed,Assassin AD,Ornn,Sustain Tank,Orianna,Burst,Morgana,Poke,Neeko,Burst,Ezreal,Poke,0
+KR_7639266573,Nautilus,CC Tank,Ezreal,Poke,Morgana,Poke,Seraphine,Utility Support,Aurora,Poke,Malphite,Sustain Tank,Jayce,Poke,Quinn,Poke,Xerath,Poke,Rammus,CC Tank,1
+KR_7639224700,Nilah,DPS Marksman,Nautilus,CC Tank,Taliyah,Poke,Lux,Poke,Caitlyn,Poke,Aphelios,DPS Marksman,Jayce,Poke,Blitzcrank,CC Tank,Lulu,Utility Support,Vex,Burst,0
+KR_7639042827,Riven,Bruiser AD,Nautilus,CC Tank,Amumu,CC Tank,Azir,Poke,Zeri,DPS Marksman,Veigar,Burst,Thresh,Utility Support,Elise,Burst,Mordekaiser,Bruiser AP,Draven,DPS Marksman,1
+KR_7637999613,Sona,Utility Support,Quinn,Poke,Ryze,Bruiser AD,Pantheon,Bruiser AD,Cassiopeia,Sustain Mage,Vi,Bruiser AD,Xerath,Poke,Milio,Utility Support,Ambessa,Bruiser AD,Lucian,DPS Marksman,1
+KR_7635987589,Graves,Poke,Kennen,Burst,Brand,Burst,Anivia,Poke,Nami,Utility Support,Corki,Poke,Ivern,Utility Support,Zed,Assassin AD,Xayah,DPS Marksman,Azir,Poke,1
+KR_7638708626,Swain,Sustain Mage,Maokai,CC Tank,Quinn,Poke,Trundle,Bruiser AD,Zeri,DPS Marksman,Brand,Burst,Ezreal,Poke,Pyke,Assassin AD,Kassadin,Burst,Zyra,Poke,1
+KR_7636233352,Lucian,DPS Marksman,Amumu,CC Tank,Tryndamere,Bruiser AD,Jhin,Poke,Taliyah,Poke,Ahri,Burst,Malphite,Sustain Tank,Morgana,Poke,Skarner,CC Tank,Aatrox,Bruiser AD,1
+KR_7634188528,Ashe,Poke,Zed,Assassin AD,Draven,DPS Marksman,Xayah,DPS Marksman,Aurora,Poke,Cassiopeia,Sustain Mage,Volibear,Sustain Tank,Sona,Utility Support,Smolder,Poke,Gwen,Bruiser AP,1
+KR_7633019051,Lux,Poke,Yasuo,Bruiser AD,Vex,Burst,Gragas,Sustain Mage,Nautilus,CC Tank,Ashe,Poke,Karma,Utility Support,Brand,Burst,Pantheon,Bruiser AD,Ekko,Burst,0
+KR_7634627455,Ezreal,Poke,Gwen,Bruiser AP,Zyra,Poke,Zeri,DPS Marksman,Poppy,CC Tank,Soraka,Utility Support,Lissandra,Burst,Galio,CC Tank,Xayah,DPS Marksman,Talon,Assassin AD,1
+KR_7633962267,Rumble,Sustain Mage,Karthus,Burst,Samira,DPS Marksman,Mordekaiser,Bruiser AP,Amumu,CC Tank,Annie,Burst,Braum,CC Tank,Lucian,DPS Marksman,Ashe,Poke,Caitlyn,Poke,1
+KR_7633941769,Lux,Poke,Malphite,Sustain Tank,Jhin,Poke,Heimerdinger,Poke,Nidalee,Poke,Gangplank,Poke,Annie,Burst,Lucian,DPS Marksman,Katarina,Burst,Talon,Assassin AD,0
+KR_7617864777,Lux,Poke,Sona,Utility Support,Kennen,Burst,Rell,CC Tank,Shen,Sustain Tank,Ziggs,Poke,Maokai,CC Tank,Smolder,Poke,Jinx,DPS Marksman,Lucian,DPS Marksman,1
+KR_7617840149,Blitzcrank,CC Tank,Sion,Sustain Tank,Jinx,DPS Marksman,Illaoi,Bruiser AD,Twitch,DPS Marksman,Jhin,Poke,Kalista,DPS Marksman,Gangplank,Poke,Aurora,Poke,Lucian,DPS Marksman,1
+KR_7639257686,Jhin,Poke,Hwei,Poke,Mordekaiser,Bruiser AP,Rumble,Sustain Mage,Janna,Utility Support,Quinn,Poke,Renekton,Bruiser AD,Varus,Poke,Lux,Poke,Rakan,Utility Support,1
+KR_7616477137,Malzahar,Poke,Gragas,Sustain Mage,Aatrox,Bruiser AD,Senna,DPS Marksman,Pantheon,Bruiser AD,Yone,Bruiser AD,Orianna,Burst,Kled,Bruiser AD,Vladimir,Sustain Mage,Smolder,Poke,1
+KR_7638880195,Sivir,DPS Marksman,Mordekaiser,Bruiser AP,Talon,Assassin AD,Volibear,Sustain Tank,Tristana,DPS Marksman,Smolder,Poke,Sylas,Bruiser AP,Ornn,Sustain Tank,Ryze,Bruiser AD,Teemo,Poke,1
+KR_7638853906,Thresh,Utility Support,Kennen,Burst,Pantheon,Bruiser AD,Gnar,Bruiser AD,Darius,Bruiser AD,Ziggs,Poke,Hwei,Poke,Aphelios,DPS Marksman,Katarina,Burst,Caitlyn,Poke,1
+KR_7617204037,Xerath,Poke,Kalista,DPS Marksman,Vayne,DPS Marksman,Zac,CC Tank,Ambessa,Bruiser AD,Shyvana,Bruiser AD,Braum,CC Tank,Gragas,Sustain Mage,Karthus,Burst,Gangplank,Poke,1
+KR_7617151146,Teemo,Poke,Warwick,Bruiser AD,Volibear,Sustain Tank,Xerath,Poke,Qiyana,Assassin AD,Gangplank,Poke,Yone,Bruiser AD,Jayce,Poke,Senna,DPS Marksman,Malzahar,Poke,0
