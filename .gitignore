@@ -1,5 +1,5 @@
 .env
-.match_data.csv
-.user_list.csv
-.catboost_model.cbm
-.train_log.txt
+catboost_model.cbm
+train_log.txt
+match_data.csv
+user_list.csv

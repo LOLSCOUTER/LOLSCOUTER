@@ -1,6 +1,6 @@
 import csv, os
 from catboost import CatBoostClassifier
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, classification_report
 from sklearn.model_selection import train_test_split
 from collections import Counter
 
@@ -49,3 +49,6 @@ if __name__ == "__main__":
     y_pred = model.predict(X_test)
     acc = accuracy_score(y_test, y_pred)
     print(f"모델 정확도: {acc:.4f} (총 데이터 수: {len(X)})")
+
+    print("\n상세 평가 지표:")
+    print(classification_report(y_test, y_pred, target_names=["Red Win", "Blue Win"]))
