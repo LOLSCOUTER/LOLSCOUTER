@@ -3,3 +3,9 @@ catboost_model.cbm
 train_log.txt
 match_data.csv
 user_list.csv
+team_data.csv
+team_collector.py
+xgboost_team_model.json
+catboost_team_model.cbm
+recommender.py
+catboost_training.json
